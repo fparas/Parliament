@@ -1,0 +1,66 @@
+
+Phase: Parlmember_ontology
+Input: Parlmember Token 
+Options: control = appelt
+
+
+Rule: parlmember2 
+(
+	{Parlmember}
+	):parlmember
+
+-->
+:parlmember
+{
+  //find the annotation matched by LHS 
+  //we know the annotation set returned 
+  //will always contain a single annotation 
+  
+  Annotation parlmemberAnn = (Annotation)((AnnotationSet)bindings.get("parlmember")).iterator().next(); 
+ 
+  //find the class of the mention 
+  String className = (String)parlmemberAnn.getFeatures(). 
+    get(gate.creole.ANNIEConstants.LOOKUP_CLASS_FEATURE_NAME); 
+  System.err.println(className);
+  // should normalize class name and avoid invalid class names here! 
+  OClass aClass = ontology.getOClass(ontology.createOURIForName(className)); 
+  if(aClass == null) { 
+    System.err.println("Error class \"" + className + "\" does not exist!"); 
+    return; 
+  } 
+ 
+  //find the text covered by the annotation 
+  String theMentionText;
+  try{ 
+  theMentionText = doc.getContent().getContent(parlmemberAnn.getStartNode().getOffset(), parlmemberAnn.getEndNode().getOffset()).toString(); 
+  } 
+  catch(InvalidOffsetException e){ 
+  throw new GateRuntimeException(e); //This should never happen }  
+	}
+	
+  // when creating a URI from text that came from a document you must take care 
+  // to ensure that the name does not contain any characters that are illegal 
+  // in a URI.  The following method does this nicely for English but you may 
+  // want to do your own normalization instead if you have non-English text. 
+  String mentionName = OUtils.toResourceName(theMentionText); 
+ 
+  // get the property to store mention texts for mention instances 
+DatatypeProperty name = 
+    ontology.getDatatypeProperty(ontology.createOURIForName("Parl_member_name")); 
+DatatypeProperty prop = 
+    ontology.getDatatypeProperty(ontology.createOURIForName("Parl_member_name")); 
+ 
+  OURI mentionURI = ontology.createOURIForName(mentionName); 
+  // if that mention instance does not already exist, add it 
+  if (!ontology.containsOInstance(mentionURI)) { 
+    OInstance inst = ontology.addOInstance(mentionURI, aClass); 
+    // add the actual mention text to the instance 
+    try { 
+      inst.addDatatypePropertyValue(name, 
+        new Literal(theMentionText, OConstants.ENGLISH)); 
+    } 
+    catch(InvalidValueException e) { 
+      throw new JapeException(e); 
+    } 
+  } 
+}

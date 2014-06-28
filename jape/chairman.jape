@@ -1,0 +1,18 @@
+Phase: Chairman
+Input: Lookup Token
+Options: control = appelt
+
+Macro: NAME
+(
+({Token})[2,3]
+)
+
+Rule: chairman1 
+
+	({Token.string == "ΠΡΟΕΔΡΟΣ"} | {Token.string == "ΠΡΟΕΔΡΕΥΩΝ"} | {Token.string == "ΠΡΟΕΔΡΕΥΟΥΣΑ"})
+	({Token.string == "("})
+	(NAME):chairman
+	({Token.string == ")"})
+-->
+:chairman.Chairman = {kind = "name", rule = "chairman1", majorType = "speaker"}
+		

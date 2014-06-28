@@ -1,0 +1,13 @@
+Phase: Parlmember
+Input: Lookup Token
+Options: control = appelt
+
+Rule: parlmember1
+(
+	{Lookup.majorType == parlmember}
+	)
+:parlmember
+
+-->
+
+:parlmember.Parlmember = {kind = "name", rule = "parlmember1", majorType = "speaker"}

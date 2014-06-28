@@ -1,0 +1,94 @@
+D:/Corpora/TestFolder/
+Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst
+2
+File Number : 1Name : 1998-5-27.txt
+Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst
+Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/Provinces.lst
+Removing gaps..
+2640 Gaps removed.
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Παναγιώτης Ν. Κρητικός
+1
+ParlMember inserted! ParlMember [name=Παναγιώτης Ν. Κρητικός, province=]
+true
+Exception in thread "main" org.h2.jdbc.JdbcSQLException: Cannot parse "DATE" constant "Wed May 27 00:00:00 CEST 1998"; SQL statement:
+SELECT * FROM CONFERENCE WHERE DATE='Wed May 27 00:00:00 CEST 1998' [22007-178]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:344)
+	at org.h2.message.DbException.get(DbException.java:167)
+	at org.h2.value.ValueDate.parse(ValueDate.java:71)
+	at org.h2.value.Value.convertTo(Value.java:860)
+	at org.h2.expression.Comparison.getValue(Comparison.java:257)
+	at org.h2.expression.Expression.getBooleanValue(Expression.java:179)
+	at org.h2.command.dml.Select.queryFlat(Select.java:535)
+	at org.h2.command.dml.Select.queryWithoutCache(Select.java:646)
+	at org.h2.command.dml.Query.query(Query.java:323)
+	at org.h2.command.dml.Query.query(Query.java:291)
+	at org.h2.command.dml.Query.query(Query.java:37)
+	at org.h2.command.CommandContainer.query(CommandContainer.java:91)
+	at org.h2.command.Command.executeQuery(Command.java:197)
+	at org.h2.server.TcpServerThread.process(TcpServerThread.java:321)
+	at org.h2.server.TcpServerThread.run(TcpServerThread.java:160)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalArgumentException: Wed May 27 00:00:00 CEST 1998
+	at org.h2.util.DateTimeUtils.parseDateValue(DateTimeUtils.java:273)
+	at org.h2.value.ValueDate.parse(ValueDate.java:69)
+	... 13 more
+
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:610)
+	at org.h2.command.CommandRemote.executeQuery(CommandRemote.java:159)
+	at org.h2.jdbc.JdbcStatement.executeQuery(JdbcStatement.java:81)
+	at dbManager.insertConference(dbManager.java:62)
+	at Run.main(Run.java:96)

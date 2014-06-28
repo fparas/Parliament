@@ -1,0 +1,13 @@
+Phase: Province
+Input: Lookup Token
+Options: control = appelt
+
+Rule: province1 
+(
+	{Lookup.majorType == province}
+	)
+
+:province
+-->
+
+:province.Province = {kind = "location", rule = "province1"}
