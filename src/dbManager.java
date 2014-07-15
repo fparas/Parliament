@@ -33,7 +33,11 @@ public class dbManager {
 		String ParlmemberProvince=parlmember.getProvince();
 		boolean ret=false;
 		
-		ResultSet r = stmt.executeQuery("SELECT * FROM PARLMEMBER WHERE NAME='"+ParlmemberName+"' AND (PROVINCE='"+ParlmemberProvince +"' OR PROVINCE=NULL)");
+		ResultSet r = stmt.executeQuery(
+				"SELECT * FROM PARLMEMBER "
+				+ "WHERE NAME='"+ParlmemberName
+				+"' AND (PROVINCE='"+ParlmemberProvince +"' OR PROVINCE=NULL)");
+		
 		if (!r.next()) { 
 			ret=true;
 		if (parlmember.getProvince().equals(""))
@@ -80,6 +84,21 @@ public class dbManager {
 		//stmt.executeUpdate("INSERT INTO CONFERENCE VALUES (NULL,'"+chairmanID+"','"+new java.sql.Date(c.getDate().getTime())+"',' ')");
 		
 		}
+	
+	public void insertSpeech (ParlReport p, int confID) throws ClassNotFoundException, SQLException{
+		ParlMember reporter = p.getReporter();
+		System.out.println(reporter);
+		insertParlmember(reporter);
+		ResultSet resultID = stmt.executeQuery("SELECT * FROM PARLMEMBER WHERE NAME='"+reporter.getName()+"'");
+		resultID.next();
+		int reporterID=resultID.getInt(1);
+		PreparedStatement statement=conn.prepareStatement("INSERT INTO REPORT VALUES (NULL,'"+confID+"','"+reporterID+"',?)");
+		statement.setCharacterStream(1, new StringReader(p.getBody())); 
+		statement.execute();
+		//stmt.executeUpdate("INSERT INTO CONFERENCE VALUES (NULL,'"+chairmanID+"','"+new java.sql.Date(c.getDate().getTime())+"',' ')");
+		
+		}
+
 
 
 }

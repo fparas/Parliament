@@ -73,22 +73,26 @@ final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis/workspace/Parliament/
 //*********************************************** /GATE *****************************		 
 		 
 		 
-		//Initializing Dictionaries
+		//Initializing 
 		Dictionary dictParlMembers=new Dictionary(PARLMEMBER_DICT_PATH);
 		dictParlMembers.check("Παναγιώτης Σγουρίδης");
 		dbManager d=new dbManager();
 		File fileList [] = new File(PATH).listFiles();
 		System.out.println(fileList.length);
-//		
+		//RunGate r = new RunGate();
+		
+		//
+		
 //		
 //		
 //		
 		for (int i=1;i<fileList.length;i++){
 			
 			System.out.println("File Number : " + i + "Name : " + fileList[i].getName() );
+			String conferencePath = PATH + fileList[i].getName();
 			
-			Conference c = new Conference(new SimpleDateFormat("yyyy-MM-dd", Locale.ENGLISH).parse(fileList[i].getName()),IO.readFile(PATH + fileList[i].getName(), StandardCharsets.UTF_8));
-			
+			Conference c = new Conference(new SimpleDateFormat("yyyy-MM-dd", Locale.ENGLISH).parse(fileList[i].getName()),IO.readFile(conferencePath, StandardCharsets.UTF_8));
+			//r.Run(conferencePath);
 			
 			
 			//System.out.println("Built");

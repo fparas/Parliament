@@ -10,4 +10,4 @@ Rule: parlmember1
 
 -->
 
-:parlmember.Parlmember = {kind = "name", rule = "parlmember1", majorType = "speaker"}
+:parlmember.Parlmember = {kind = "name",majorType = "speaker"}

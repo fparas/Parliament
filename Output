@@ -1,11 +1,11 @@
 D:/Corpora/TestFolder/
 Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst
-2
-File Number : 1Name : 1998-5-27.txt
+21
+File Number : 1Name : 1997-1-13.txt
 Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst
 Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/Provinces.lst
 Removing gaps..
-2640 Gaps removed.
+10861 Gaps removed.
 Report found!
 Report found!
 Report found!
@@ -60,35 +60,246 @@ Report found!
 Report found!
 Report found!
 Report found!
-Παναγιώτης Ν. Κρητικός
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Απόστολος Κακλαμάνης
 1
-ParlMember inserted! ParlMember [name=Παναγιώτης Ν. Κρητικός, province=]
+ParlMember inserted! ParlMember [name=Απόστολος Κακλαμάνης, province=]
 true
-Exception in thread "main" org.h2.jdbc.JdbcSQLException: Cannot parse "DATE" constant "Wed May 27 00:00:00 CEST 1998"; SQL statement:
-SELECT * FROM CONFERENCE WHERE DATE='Wed May 27 00:00:00 CEST 1998' [22007-178]
-	at org.h2.message.DbException.getJdbcSQLException(DbException.java:344)
-	at org.h2.message.DbException.get(DbException.java:167)
-	at org.h2.value.ValueDate.parse(ValueDate.java:71)
-	at org.h2.value.Value.convertTo(Value.java:860)
-	at org.h2.expression.Comparison.getValue(Comparison.java:257)
-	at org.h2.expression.Expression.getBooleanValue(Expression.java:179)
-	at org.h2.command.dml.Select.queryFlat(Select.java:535)
-	at org.h2.command.dml.Select.queryWithoutCache(Select.java:646)
-	at org.h2.command.dml.Query.query(Query.java:323)
-	at org.h2.command.dml.Query.query(Query.java:291)
-	at org.h2.command.dml.Query.query(Query.java:37)
-	at org.h2.command.CommandContainer.query(CommandContainer.java:91)
-	at org.h2.command.Command.executeQuery(Command.java:197)
-	at org.h2.server.TcpServerThread.process(TcpServerThread.java:321)
-	at org.h2.server.TcpServerThread.run(TcpServerThread.java:160)
-	at java.lang.Thread.run(Unknown Source)
-Caused by: java.lang.IllegalArgumentException: Wed May 27 00:00:00 CEST 1998
-	at org.h2.util.DateTimeUtils.parseDateValue(DateTimeUtils.java:273)
-	at org.h2.value.ValueDate.parse(ValueDate.java:69)
-	... 13 more
+ParlReport [reporter=ParlMember [name=ΕΜΜΑΝΟΥΗΛ ΦΡΑΓΚΙΑΔΟΥΛΑΚΗΣ, province=Ηρακλείου], body=δημοσίευμα εφημερίδας το οποίο αναφέρεται στην καθυστέρηση πληρωμής της στρεμματικής ενίσχυσης των σταφιδοπαραγωγών της Κρήτης.]
 
-	at org.h2.engine.SessionRemote.done(SessionRemote.java:610)
-	at org.h2.command.CommandRemote.executeQuery(CommandRemote.java:159)
-	at org.h2.jdbc.JdbcStatement.executeQuery(JdbcStatement.java:81)
-	at dbManager.insertConference(dbManager.java:62)
-	at Run.main(Run.java:96)
+ParlMember [name=ΕΜΜΑΝΟΥΗΛ ΦΡΑΓΚΙΑΔΟΥΛΑΚΗΣ, province=Ηρακλείου]
+ParlReport [reporter=ParlMember [name=ΑΛΕΞΑΝΔΡΟΣ ΒΟΥΛΓΑΡΗΣ, province=Μαγνησίας], body=αναφορά με την οποία η Κοινότητα Γλώσσας Νομού Μαγνησίας ζητεί να απαλαγούν από τις εφημερίες του ΕΣΥ Σκοπέλου οι γιατροί που υπηρετούν στο αγροτικό ιατρείο Γλώσσας Μαγνησίας.]
+
+ParlMember [name=ΑΛΕΞΑΝΔΡΟΣ ΒΟΥΛΓΑΡΗΣ, province=Μαγνησίας]
+ParlReport [reporter=ParlMember [name=ΑΛΕΞΑΝΔΡΟΣ ΒΟΥΛΓΑΡΗΣ, province=Μαγνησίας], body=αναφορά με την οποία η Διεύθυνση Προγραμματισμού και Ανάπτυξης της Νομαρχιακής Αυτοδιοίκησης Μαγνησίας ζητεί να ληφθεί υπ' όψιν η κατάσταση του Νομού Μαγνησίας και να δοθεί ενισχυμένη χρηματοδότηση από τις Δημόσιες Επενδύσεις.]
+
+ParlMember [name=ΑΛΕΞΑΝΔΡΟΣ ΒΟΥΛΓΑΡΗΣ, province=Μαγνησίας]
+ParlReport [reporter=ParlMember [name=ΠΑΝΑΓΙΩΤΗΣ ΨΩΜΙΑΔΗΣ, province=Θεσ/νίκης], body=αναφορά με την οποία η Πανελλήνια Ομοσπονδία Ιδιοκτητών Φροντιστηρίων Ξένων Γλωσσών (PALSO) ζητεί την αναγνώριση των εξετάσεων PALSO.]
+
+ParlMember [name=ΠΑΝΑΓΙΩΤΗΣ ΨΩΜΙΑΔΗΣ, province=Θεσ/νίκης]
+ParlReport [reporter=ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου], body=αναφορά με την οποία το Τμήμα Ανατολικής Κρήτης του Τεχνικού Επιμελητηρίου Ελλάδος υποβάλλει προτάσεις για τη βελτίωση του ενεργειακού προγράμματος επενδύσεων.]
+
+ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου]
+ParlReport [reporter=ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου], body=αναφορά με την οποία ο Οργανισμός Ανάπτυξης Σητείας Α.Ε. ζητεί την συμπληρωματική χρηματοδότηση για την κατασκευή του Αιολικού Πάρκου.]
+
+ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου]
+ParlReport [reporter=ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου], body=αναφορά με την οποία οι Σύλλογοι Ιεραπετριτών Μεραμπελλιωτών και Στειακών Ηρακλείου και ο Σύνδεσμος Λασιθιωτών Ηρακλείου ζητούν την ίδρυση και λειτουργία Πανεπιστημιακών Σχολών στο Νομό Λασιθίου.]
+
+ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου]
+ParlReport [reporter=ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου], body=αναφορά με την οποία ο Ιστιοπλοϊκός 'Ομιλος Αγίου Νικολάου Νομού Λασιθίου ζητεί την δωρεάν χορήγηση πέντε θέσεων ελλιμενισμού σκαφών στη μαρίνα Αγίου Νικολάου.]
+
+ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου]
+ParlReport [reporter=ParlMember [name=ΝΙΚΟΛΑΟΣ ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ, province=Μεσσηνίας], body=αναφορά με την οποία η Κοινότητα Λάμπαινας Μεσσηνίας ζητεί την εκτίμηση των ζημιών που υπέστησαν οι αγροτικές καλλιέργειες από την θεομηνία του Δεκεμβρίου του '96.]
+
+ParlMember [name=ΝΙΚΟΛΑΟΣ ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ, province=Μεσσηνίας]
+ParlReport [reporter=ParlMember [name=ΠΑΝΑΓΙΩΤΗΣ ΨΩΜΙΑΔΗΣ, province=Θεσ/νίκης], body=αναφορά με την οποία Μητέρες Επιστήμονες Πολύτεκνες ζητούν την επαναφορά του Ν. 1286/82 περί μετεγγραφής πολυτέκνων φοιτητών εξωτερικού.]
+
+ParlMember [name=ΠΑΝΑΓΙΩΤΗΣ ΨΩΜΙΑΔΗΣ, province=Θεσ/νίκης]
+ParlReport [reporter=ParlMember [name=ΠΑΝΑΓΙΩΤΗΣ ΚΡΗΤΙΚΟΣ, province=Πειραιά], body=αναφορά με την οποία το Εκκλησιαστικό Συμβούλιο του Ιερού Ναού Προφήτη Ηλία Περάματος ζητεί οικονομική ενίσχυση για την κατασκευή έργων στο Ναό.]
+
+ParlMember [name=ΠΑΝΑΓΙΩΤΗΣ ΚΡΗΤΙΚΟΣ, province=Πειραιά]
+ParlReport [reporter=ParlMember [name=ΕΥΑΓΓΕΛΟΣ ΑΠΟΣΤΟΛΟΥ, province=Εύβοιας], body=αναφορά με την οποία το Δημοτικό Συμβούλιο Κύμης Εύβοιας ζητεί τη συνέχιση της καταβολής του επιδόματος στις πολύτεκνες μητέρες.]
+
+ParlMember [name=ΕΥΑΓΓΕΛΟΣ ΑΠΟΣΤΟΛΟΥ, province=Εύβοιας]
+ParlReport [reporter=ParlMember [name=ΙΩΑΝΝΗΣ ΔΡΑΓΑΣΑΚΗΣ, province=Αθηνών], body=αναφορά με την οποία η Πανελλήνια 'Ενωση Προσωπικού ΕΚΟ αναφέρεται στα προβλήματα της συνένωσης των εταιρειών BP και MOBIL.]
+
+ParlMember [name=ΙΩΑΝΝΗΣ ΔΡΑΓΑΣΑΚΗΣ, province=Αθηνών]
+ParlReport [reporter=ParlMember [name=ΦΩΤΗΣ ΚΟΥΒΕΛΗΣ, province=Αθηνών], body=αναφορά με την οποία οι Κάτοικοι του Δήμου Καματερού Αττικής ζητούν να μη μεταφερθεί το 4ο Δημοτικό Σχολείο Καματερού σε άλλη περιοχή.]
+
+ParlMember [name=ΦΩΤΗΣ ΚΟΥΒΕΛΗΣ, province=Αθηνών]
+ParlReport [reporter=ParlMember [name=ΑΘΑΝΑΣΙΟΣ ΔΑΒΑΚΗΣ, province=Λακωνίας], body=αναφορά με την οποία Μητέρες Επιστήμονες Πολύτεκνες ζητούν την επαναφορά του Ν. 1286/82, περί μετεγγραφής πολύτεκνων φοιτητών εξωτερικού.]
+
+ParlMember [name=ΑΘΑΝΑΣΙΟΣ ΔΑΒΑΚΗΣ, province=Λακωνίας]
+ParlReport [reporter=ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΝΙΚΟΛΑΟΥ, province=Μεσσηνίας], body=αναφορά με την οποία η Κοινότητα Περδικονερίου Μεσσηνίας ζητεί να αναθεωρηθεί ο Ν. 1622/86 που αφορά στις συνενώσεις μικρών κοινοτήτων.]
+
+ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΝΙΚΟΛΑΟΥ, province=Μεσσηνίας]
+ParlReport [reporter=ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΝΙΚΟΛΑΟΥ, province=Μεσσηνίας], body=αναφορά με την οποία η Κοινότητα Κοπανακίου Μεσσηνίας ζητεί να ελευθερωθεί κεντρικός κοινοτικός της δρόμος που φράσεται παράνομα από τον ΟΣΕ.]
+
+ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΝΙΚΟΛΑΟΥ, province=Μεσσηνίας]
+ParlReport [reporter=ParlMember [name=ΘΕΟΔΩΡΟΣ ΚΑΤΣΙΚΗΣ, province=Αττικής], body=αναφορά με την οποία Μητέρες Επιστήμονες Πολύτεκνες ζητούν την επαναφορά του Ν. 1286/82, περί μετεγγραφής πολύτεκνων φοιτητών εξωτερικού.]
+
+ParlMember [name=ΘΕΟΔΩΡΟΣ ΚΑΤΣΙΚΗΣ, province=Αττικής]
+ParlReport [reporter=ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας], body=αναφορά με την οποία ο Δήμος Αγίου Κων/νου Αιτωλ/νίας ζητεί τη χρηματοδότηση της ανέγερσης κτιρίου για τη στέγαση ΚΑΠΗ στην περιοχή του.]
+
+ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας]
+ParlReport [reporter=ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας], body=αναφορά με την οποία ο κ. Σ.Παπασωτήρης, κάτοικος Κατοχής Αιτωλ/νίας ζητεί τη λήψη μέτρων για την προστασία των υγρότοπων Μεσολογγίου - Αιτωλικού Κάτω Ρου και εκβολών των ποταμών Ευήνου και Αχελώου.]
+
+ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας]
+ParlReport [reporter=ParlMember [name=ΔΗΜΗΤΡΙΟΣ ΣΙΟΥΦΑΣ, province=Καρδίτσας], body=αναφορά με την οποία η Κοινότητα Λεονταρίου Καρδίτσας ζητεί την κατασκευή περιφερειακού δρόμου για τις κοινότητες Λεονταρίου, Αχλαδιάς και Ανάβρας Καρδίτσας.]
+
+ParlMember [name=ΔΗΜΗΤΡΙΟΣ ΣΙΟΥΦΑΣ, province=Καρδίτσας]
+ParlReport [reporter=ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας], body=αναφορά με την οποία η Κοινότητα Αστακού Αιτωλ/νίας ζητεί να μην καταργηθεί η ΔΟΥ Αστακού.]
+
+ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας]
+ParlReport [reporter=ParlMember [name=ΒΑΡΣΑΜΗΣ ΓΙΟΒΑΝΟΥΔΑΣ, province=Χαλκιδικής], body=αναφορά με την οποία η Κοινότητα Ορμυλίας Χαλκιδικής ζητεί την εγκατάσταση χώρου ελλιμενισμού, προστασίας και εξυπηρέτησης πλοίων στην παραλιακή περιοχή της Ψακούδια.]
+
+ParlMember [name=ΒΑΡΣΑΜΗΣ ΓΙΟΒΑΝΟΥΔΑΣ, province=Χαλκιδικής]
+ParlReport [reporter=ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΓΕΩΡΓΟΠΟΥΛΟΣ, province=Εύβοιας], body=αναφορά με την οποία ο Δήμος Κύμης Εύβοιας υποβάλει προτάσεις για να μην επαναληφθούν νέες θαλάσσιες τραγωδίες στην περιοχή της Κύμης.]
+
+ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΓΕΩΡΓΟΠΟΥΛΟΣ, province=Εύβοιας]
+ParlReport [reporter=ParlMember [name=ΑΝΑΣΤΑΣΙΟΣ ΠΑΠΑΛΗΓΟΥΡΑΣ, province=Κορινθίας], body=αναφορά με την οποία έκτακτοι υπάλληλοι εθνικής οδοποιίας των Σταθμών 'Ισθμιας και Αγίων Θεοδώρων Κορινθίας διαμαρτύρονται για την πρόσληψη νέων υπαλλήλων ενώ εκκρεμεί η μονιμοποίησή τους.]
+
+ParlMember [name=ΑΝΑΣΤΑΣΙΟΣ ΠΑΠΑΛΗΓΟΥΡΑΣ, province=Κορινθίας]
+ParlReport [reporter=ParlMember [name=ΣΤΑΥΡΟΣ ΜΠΕΝΟΣ, province=Μεσσηνίας], body=αναφορά με την οποία η Κοινότητα Λάμπαινας Μεσσηνίας ζητεί την διευθέτηση της κοίτης του χειμμάρου Σουβάλα για την αποφυγή νέων πλημμυρών.]
+
+ParlMember [name=ΣΤΑΥΡΟΣ ΜΠΕΝΟΣ, province=Μεσσηνίας]
+ParlReport [reporter=ParlMember [name=ΑΘΑΝΑΣΙΟΣ ΝΑΚΟΣ, province=Μαγνησίας], body=αναφορά με την οποία η Κοινότητα Γλώσσας Σκοπέλου ζητεί να λειτουργεί το Αγροτικό Ιατρείο της και τα Σαββατοκύριακα.]
+
+ParlMember [name=ΑΘΑΝΑΣΙΟΣ ΝΑΚΟΣ, province=Μαγνησίας]
+ParlReport [reporter=ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας], body=αναφορά με την οποία η Κοινότητα Κλεπάς Αιτωλ/νίας ζητεί να συνενωθούν οι κοινότητες Κλεπάς, Περδικόβρυσης, Δενδροχωρίου και Λιβαδακίου Αιτωλ/νίας σε Δήμο με την ονομασία Δήμος Κλεπαίδος.]
+
+ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας]
+ParlReport [reporter=ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΓΕΩΡΓΟΠΟΥΛΟΣ, province=Εύβοιας], body=αναφορά με την οποία ο Μητροπολίτης Καρυστίας και Σκύρου ζητεί να μην καταργηθούν οι φορολογικές απαλλαγές για τα φιλανθρωπικά ιδρύματα.]
+
+ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΓΕΩΡΓΟΠΟΥΛΟΣ, province=Εύβοιας]
+ParlReport [reporter=ParlMember [name=ΓΕΩΡΓΙΟΣ ΚΑΡΑΤΑΣΟΣ, province=Αττικής], body=αναφορά με την οποία οι Κάτοικοι του Δήμου Καματερού Αττικής ζητούν να μη μεταφερθεί το 4ο Δημοτικό Σχολείο Καματερού σε άλλη περιοχή.]
+
+ParlMember [name=ΓΕΩΡΓΙΟΣ ΚΑΡΑΤΑΣΟΣ, province=Αττικής]
+ParlReport [reporter=ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΓΕΩΡΓΟΠΟΥΛΟΣ, province=Εύβοιας], body=αναφορά με την οποία ο Δήμος Ιστιαίας Εύβοιας ζητεί την επίσπευση των μυνητηρίων αναφορών που έχει υποβάλει.]
+
+ParlMember [name=ΕΛΕΥΘΕΡΙΟΣ ΠΑΠΑΓΕΩΡΓΟΠΟΥΛΟΣ, province=Εύβοιας]
+ParlReport [reporter=ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας], body=αναφορά με την οποία η Κοινότητα Αστακού ζητεί την αξιοποίηση του Πλατυγιαλιού σαν εμπορικό - διαμετακομιστικό - επιβατικό κέντρο.]
+
+ParlMember [name=ΧΡΗΣΤΟΣ ΣΜΥΡΛΗΣ, province=Αιτωλ/νίας]
+ParlReport [reporter=ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου], body=αναφορά με την οποία η κυρία Αλίκη Πρωτόπαπα, Αρχιτέκτων Μηχανικός δημόσιος υπάλληλος στην Ιταλία ζητεί την απόσπασή της σε αντίστοιχη ελληνική υπηρεσία.]
+
+ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου]
+ParlReport [reporter=ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου], body=αναφορά με την οποία η 'Ενωσις Γεωργικών Συνεταιρισμών Επαρχίας Λασιθίου ΣΥΝ.Π.Ε. ζητεί οικονομική ενίσχυση για τη ζημιά που υπέστη από τη μη απορρόφηση του πατατόσπορου.]
+
+ParlMember [name=ΜΙΧΑΗΛ ΚΑΡΧΙΜΑΚΗΣ, province=Λασιθίου]
+ParlReport [reporter=ParlMember [name=ΒΑΣΙΛΕΙΟΣ ΚΟΡΚΟΛΟΠΟΥΛΟΣ, province=Ηλείας], body=αναφορά με την οποία η Κοινότητα Κούμανης Ηλείας ζητεί οικονομική ενίσχυση για την κατασκευή έργων υποδομής στην περιοχή της.]
+
+ParlMember [name=ΒΑΣΙΛΕΙΟΣ ΚΟΡΚΟΛΟΠΟΥΛΟΣ, province=Ηλείας]
+ParlReport [reporter=ParlMember [name=ΓΕΩΡΓΙΟΣ ΣΟΥΡΛΑΣ, province=Μαγνησίας], body=αναφορά με την οποία ο Νομάρχης Μαγνησίας ζητεί οικονομική ενίσχυση από τις Δημόσιες Επενδύσεις (ΣΑΝΑ /1 κ.λπ.) στο Νομό Μαγνησίας.]
+
+ParlMember [name=ΓΕΩΡΓΙΟΣ ΣΟΥΡΛΑΣ, province=Μαγνησίας]
+ParlReport [reporter=ParlMember [name=ΕΥΑΓΓΕΛΟΣ ΣΤΑΙΚΟΣ, province=Φθιώτιδας], body=αναφορά με την οποία ο Δήμος Στυλίδας του Νομού Φθιώτιδας ζητεί τη μείωση των αντικειμενικών αξιών των ακινήτων της περιοχής του.]
+
+ParlMember [name=ΕΥΑΓΓΕΛΟΣ ΣΤΑΙΚΟΣ, province=Φθιώτιδας]
+File Number : 2Name : 1997-1-14.txt
+Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst
+Updating Dictionary C:/Users/fotis/workspace/Parliament/dict/Provinces.lst
+Removing gaps..
+4721 Gaps removed.
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Report found!
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 54636
+	at Conference.findReports(Conference.java:129)
+	at Conference.init(Conference.java:44)
+	at Conference.<init>(Conference.java:36)
+	at Run.main(Run.java:94)

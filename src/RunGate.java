@@ -19,6 +19,7 @@ import java.io.File;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -26,7 +27,10 @@ import java.util.List;
 
 public class RunGate {
 
-	public static void Run() throws GateException, IOException{
+	public void Run(String path) throws GateException, IOException, ClassNotFoundException, SQLException{
+		dbManager d=new dbManager();
+		
+		
 		try {
 		      Gate.init();
 		      Out.prln("GATE initialised...");
@@ -65,7 +69,7 @@ public class RunGate {
 		 pipeline.add(jape);
 		 
 		 Corpus corpus = gate.Factory.newCorpus(null);
-		 corpus.populate(new File("D:\\Corpora\\TestFolder\\").toURI().toURL(), new gate.util.ExtensionFileFilter("TXT files", "txt"), "UTF-8", false);
+		 corpus.populate(new File(path).toURI().toURL(), new gate.util.ExtensionFileFilter("TXT files", "txt"), "UTF-8", false);
 		 
 		 String content=corpus.get(0).getContent().toString();
 		 System.out.println(content);
@@ -96,13 +100,19 @@ public class RunGate {
 		 		   relSet = SpeechParlmember(speeches,annSet);
 		  		   
 		 		   System.out.println(relSet.getRelations(0).get(1).getMembers());
-//		 		   Iterator <Node>i = list.iterator();
-//		 		   System.out.println(list.size());
-//		 		   while (i.hasNext()){
-//		 			   		AnnotationImpl ann=(AnnotationImpl) i.next();
-//		 				    DocumentContent annContent = dc.getContent(ann.getStartNode().getOffset(), ann.getEndNode().getOffset());
-//		 				    System.out.println(ann);
-//		 				    System.out.println(annContent);
+		 		   
+		 		  
+		 		   
+		 		  for (Annotation speech: speeches ){
+		 			   		
+		 			  		AnnotationImpl speechImpl=(AnnotationImpl) speech;
+		 				    DocumentContent speechContent = dc.getContent(speechImpl.getStartNode().getOffset(), speechImpl.getEndNode().getOffset());
+		 				    
+		 				    AnnotationImpl parMemberImpl=(AnnotationImpl) speeches.get("ParlMember").firstNode();
+		 				    DocumentContent parlMemberInSpeech = dc.getContent(parMemberImpl.getStartNode().getOffset(), parMemberImpl.getEndNode().getOffset());
+		 				    
+		 		  }		
+		 				   
 //		 		   }	  	
 		 			   		
 	}

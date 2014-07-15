@@ -1,5 +1,5 @@
 
-public class ParliamentarySpeech {
+public class ParlSpeech {
 
 	String body;
 	ParlMember member;

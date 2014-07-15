@@ -111,6 +111,7 @@ public class Conference {
 			 	
 			if (tokens[i].equals("Βουλευτής")|| tokens[i].equals("Βουλευτές")){
 				
+				
 				System.out.println("Report found!");
 				parlMemberFullName="";
 				provinceName="";
@@ -128,21 +129,27 @@ public class Conference {
 	 					
 	 					while (!tokens[i].equals("κατέθεσε") && !tokens[i].equals("κατέθεσαν") && !tokens[i].equals(".")) {
 	 						i++;
+	 						if (i<tokens.length-20){
+	 							break;
+	 						}
 	 						}
 	 					i++;
 	 					
 	 					do{
+	 						if (i<tokens.length-20)
+	 							break;
 	 						reportBody+=tokens[i]+ " ";
 	 						i++;
 	 						
 	 					}
 	 					
-	 					while ( !( tokens[i].endsWith(".") && ( tokens[i+1].equals("Σελίδα") || StringUtils.endsWith(tokens[i+1], ")")  || tokens[i+1].equals("Β'") || tokens[i+1].equals("Β."))));	 							
+	 					while ( !( tokens[i].endsWith(".") && ( tokens[i+1].equals("Σελίδα") || StringUtils.endsWith(tokens[i+1], ")")  || StringUtils.endsWith(tokens[i+1], ")Οι")  || StringUtils.endsWith(tokens[i+1], ")Ο")  || StringUtils.endsWith(tokens[i+1], ")Η")  ||  StringUtils.endsWith(tokens[i+1],"'") || tokens[i+1].equals("Β."))));	 							
 	 					
 	 					reportBody+=tokens[i];
 	 				
 	 				provinceDictionary.check(provinceName);	
 	 				parlMemberDictionary.check(parlMemberFullName);
+	 				System.out.println("Report number :" + returnTable.size() +1);
 	 				returnTable.add(new ParlReport(new ParlMember(parlMemberFullName,provinceName),reportBody));
 	 				
 	 					
@@ -163,13 +170,27 @@ public class Conference {
 	void removeTrash(){
 		System.out.println("Removing gaps..");
 		int count=0;
+		int i,j=0;
 		List<String> result=new ArrayList<String>();
-		for (int i=0;i<tokens.length;i++){
+		
+		for (i=0;i<tokens.length;i++){
 			if (!(tokens[i].equals(""))){
 				result.add(tokens[i]);
 			}
 			else count++;
 				}
+		
+		while (j<result.size()-2){
+		if (result.get(j).equals("Σελίδα") && result.get(j+1).matches("[0-9]{4}")){		
+			result.remove(j);
+			result.remove(j);
+		}
+		
+		result.get(j).replace("'", "");
+		j++;
+		}
+		
+		
 		tokens= result.toArray(new String[result.size()]);
 		System.out.println( count + " Gaps removed.");
 	}
