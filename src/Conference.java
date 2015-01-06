@@ -14,8 +14,8 @@ import com.j256.ormlite.table.DatabaseTable;
 @DatabaseTable(tableName = "conference")
 public class Conference {
 	
-	final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst";
-	final static String PROVINCE_DICT_PATH = "C:/Users/fotis/workspace/Parliament/dict/Provinces.lst";
+	final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/dict/ParlMembers.lst";
+	final static String PROVINCE_DICT_PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/dict/Provinces.lst";
 
 	String [] tokens;
 	Date date;
@@ -33,10 +33,18 @@ public class Conference {
 		this.content=content;
 		this.date = date;
 		this.tokens= content.split("\\s");
-		init();
+		//init();
 		}
 	
-	void init() throws IOException{
+	public Conference(String content) throws IOException {
+		
+		this.content=content;
+		this.tokens= content.split("\\s");
+		//init();
+		}
+	
+	
+	public void init() throws IOException{
 		parlMemberDictionary=new Dictionary(PARLMEMBER_DICT_PATH);
 		provinceDictionary=new Dictionary(PROVINCE_DICT_PATH);
 		removeTrash();

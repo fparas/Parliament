@@ -1,0 +1,16 @@
+{
+    "contents" : "shinyUI(fluidPage(\n  titlePanel(\"Greek Parliament analysis project Testing\"),\n   fluidRow(\n      column( \n          selectInput(\"parlMember\", \n                      \"Ομιλιτής\", \n                      c(\"All\", \n                        unique(as.character(greekMpInformation$name))))\n      ),\n      column( \n          selectInput(\"politicalParty\", \n                      \"Κόμμα\", \n                      c(\"All\", \n                        unique(greekMpInformation$politicalParty)))\n      ),\n      column( \n          selectInput(\"province\", \n                      \"Εκλογική περιφέρεια\", \n                      c(\"All\", \n                        unique(greekMpInformation$province)))\n      ),\n\t  \n\t  column(\n\t  dateRangeInput('dateRange',\n      label = 'Date range input: yyyy-mm-dd',\n      start = Sys.Date() - 2, end = Sys.Date() + 2\n    )\n\t  \n\t  \n    )),\t\n  sidebarLayout(\n    sidebarPanel( \"sidebar panel\"),\n    mainPanel(\"main panel\")\n  )\n\n)\n)\n",
+    "created" : 1418217951731.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3468376414",
+    "id" : "D2360B29",
+    "lastKnownWriteTime" : 1418219965,
+    "path" : "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/R project/parliamentShiny/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

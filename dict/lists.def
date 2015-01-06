@@ -1,4 +1,7 @@
-ParlMembers.lst:parlmember
-Provinces.lst:province
-StopWords.lst:stopword
-PoliticalParties.lst:politicalparty
+ParlMembers.lst:parlmember::Greek
+Provinces.lst:province::Greek
+PoliticalParties.lst:politicalparty::Greek
+ReportStopWords.lst:reportstopword
+GreekMonths.lst:month::Greek
+StopWordsNew.lst:stopword::Greek
+GreekDays.lst:day::Greek

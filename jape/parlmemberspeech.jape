@@ -1,0 +1,15 @@
+﻿Phase: ParlmemberSpeech
+Input: Token Parlmember Chairman Lookup	SpeechStart 
+Options: control = appelt
+
+Rule: speech1
+	
+	(
+	({SpeechStart.majorType=="ParlmemberSpeechStart"})
+	
+	({Token,!SpeechStart,!Lookup.majorType=="stopword"})*
+	):parlmemberspeech
+
+-->
+:parlmemberspeech.Speech = {majorType="ParlmemberSpeech"}
+ 

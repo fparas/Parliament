@@ -1,0 +1,10169 @@
+[
+   
+
+	{
+          
+      "id" : 1,
+      "name" : "Γαβριήλ Αβραμίδης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 2,
+      "name" : "Δημήτρης Αβραμόπουλος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 3,
+      "name" : "Αγαθοπούλου Ειρήνη-Ελένη",
+      "national_identity": "Greek",
+
+      "email" : "iriniagath@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/agathopoulouirini.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 4,
+      "name" : "Αηδόνης Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "xristos@aidonis.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 5,
+      "name" : "Αθανασίου Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "nathan@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/athanasiounasos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 6,
+      "name" : "Αθανασίου Χαράλαμπος",
+      "national_identity": "Greek",
+
+      "email" : "grammateia@justice.gov.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/athanasiou3.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 7,
+      "name" : "Αλεξόπουλος Απόστολος",
+      "national_identity": "Greek",
+
+      "email" : "aalexopoulos@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Alexopoulosapostolos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 8,
+      "name" : "Αλεξόπουλος Χρυσοβαλάντης",
+      "national_identity": "Greek",
+
+      "email" : "chr.alexopoulos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 9,
+      "name" : "Αμανατίδης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "amajohn1961@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/amanatidis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 10,
+      "name" : "Αμμανατίδου Ευαγγελία",
+      "national_identity": "Greek",
+
+      "email" : "litsa.ammanatidou@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/amanatidou.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 11,
+      "name" : "Αναγνωστάκης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "anagnostakisdimitris@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 12,
+      "name" : "Αναγνωστόπουλος Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/anagnostopoulosG.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 13,
+      "name" : "Αναστασιάδης Σάββας",
+      "national_identity": "Greek",
+
+      "email" : "savanast@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/anastasiadissavas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 14,
+      "name" : "Ανδριανός Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "nafplio@andrianos.eu;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/andrianos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 15,
+      "name" : "Ανδρουλάκης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "androulakis@mimis.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 16,
+      "name" : "Αντωνίου Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "mar.antoniu@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/M.Antoniou.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 17,
+      "name" : "Αποστόλου Ευάγγελος",
+      "national_identity": "Greek",
+
+      "email" : "apostolou@syn.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/apostolouevag.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 18,
+      "name" : "Αραμπατζή Φωτεινή",
+      "national_identity": "Greek",
+
+      "email" : "arampatzifot@yahoo.gr;",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 19,
+      "name" : "Αρβανίτης Αβράμης",
+      "national_identity": "Greek",
+
+      "email" : "m.arvanitis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 20,
+      "name" : "Αρβανιτόπουλος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "info@arvanitopoulos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/arvanitopoulos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 21,
+      "name" : "Ασημακοπούλου Άννα-Μισέλ",
+      "national_identity": "Greek",
+
+      "email" : "a.asimakopoulou@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Asimakopoulouanna.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 22,
+      "name" : "Αυγενάκης Ελευθέριος",
+      "national_identity": "Greek",
+
+      "email" : "info@avgenakis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/avgenakis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 23,
+      "name" : "Αυγερινοπούλου Διονυσία",
+      "national_identity": "Greek",
+
+      "email" : "d.avgerinopoulou@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/AVGERINOPOULOUDIONISIA.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 24,
+      "name" : "Αυλωνίτου Ελένη",
+      "national_identity": "Greek",
+
+      "email" : "e.avlonitou@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Avlonitou%20photo_2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 25,
+      "name" : "Βαλαβάνη Όλγα",
+      "national_identity": "Greek",
+
+      "email" : "nvalavani@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/valavaninantia_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 26,
+      "name" : "Βαμβακά Ευγενία",
+      "national_identity": "Greek",
+
+      "email" : "vamvaka@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/vamvakaevgenia.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 27,
+      "name" : "Βαρβιτσιώτης Μιλτιάδης",
+      "national_identity": "Greek",
+
+      "email" : "info@mvarvitsiotis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mvarv_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 28,
+      "name" : "Βαρεμένος Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "gvaremenos@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 29,
+      "name" : "Βενιζέλος Ευάγγελος",
+      "national_identity": "Greek",
+
+      "email" : "proedros@pasok.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/venizelos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 30,
+      "name" : "Βεσυρόπουλος Απόστολος",
+      "national_identity": "Greek",
+
+      "email" : "vesiropoulos@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/vesiropoulos_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 31,
+      "name" : "Βιρβιδάκης Κυριάκος",
+      "national_identity": "Greek",
+
+      "email" : "virvidakisk@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/virvidakis.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 32,
+      "name" : "Βλάχβεης Μενέλαος",
+      "national_identity": "Greek",
+
+      "email" : "vlachveis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Vlachveismenelaos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 33,
+      "name" : "Βλαχογιάννης Ηλίας",
+      "national_identity": "Greek",
+
+      "email" : "info@vlachoyiannis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/vlachogiannisilias.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 34,
+      "name" : "Βλάχος Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "gvlahos@ath.forthnet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/vlaxos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 35,
+      "name" : "Βογιατζής Παύλος",
+      "national_identity": "Greek",
+
+      "email" : "vogiatzis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 36,
+      "name" : "Βολουδάκης Μανούσος",
+      "national_identity": "Greek",
+
+      "email" : "manousos@voloudakis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/voloudakismanousos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 37,
+      "name" : "Βορίδης Μαυρουδής",
+      "national_identity": "Greek",
+
+      "email" : "voridis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/voridismavroudis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 38,
+      "name" : "Βουδούρης Οδυσσεύς",
+      "national_identity": "Greek",
+
+      "email" : "odysseasvoudouris@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 39,
+      "name" : "Βούλτεψη Σοφία",
+      "national_identity": "Greek",
+
+      "email" : "info@elzoni.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/voultepsisofia_1.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 40,
+      "name" : "Βούτσης Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "nvoutsis@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 41,
+      "name" : "Βρούτσης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "vroutsis@ivroutsis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/vroutsis_001.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 42,
+      "name" : "Γαϊτάνη Ιωάννα",
+      "national_identity": "Greek",
+
+      "email" : "gaitani@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 43,
+      "name" : "Γάκης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "dgakis@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/GakisDimitrios_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 44,
+      "name" : "Γελαλής Δημήτρης",
+      "national_identity": "Greek",
+
+      "email" : "dgelalis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Gelalis.Dimitris.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 45,
+      "name" : "Γερασιμίδου Ελένη",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 46,
+      "name" : "Γερμανίδης Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "germanidis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/GERMANIDIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 47,
+      "name" : "Γερμενής Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "g.germenis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 48,
+      "name" : "Γεροβασίλη Όλγα",
+      "national_identity": "Greek",
+
+      "email" : "o.gerovasili@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gerovasiliolga.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 49,
+      "name" : "Γεροντόπουλος Κυριάκος",
+      "national_identity": "Greek",
+
+      "email" : "akis@gerontopoulos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gerontopoulos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 50,
+      "name" : "Γεωργαντάς Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "g.georgantas@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/georgantas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 51,
+      "name" : "Γεωργιάδης Σπυρίδων",
+      "national_identity": "Greek",
+
+      "email" : "g-adonis@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/GeorgiadisSpiridonAdonis8_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 52,
+      "name" : "Γεωργοπούλου-Σαλτάρη Ευσταθία(",
+      "national_identity": "Greek",
+
+      "email" : "efikeram@yahoo.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/foto-Georgopoulou.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 53,
+      "name" : "Γιακουμάτος Γεράσιμος",
+      "national_identity": "Greek",
+
+      "email" : "giakoumatosge@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/giakoumatos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 54,
+      "name" : "Γιαννακάκη Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "m.giannakaki@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 55,
+      "name" : "Γιαταγάνα Χρυσούλα",
+      "national_identity": "Greek",
+
+      "email" : "xgiatagan@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 56,
+      "name" : "Γιοβανόπουλος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "giovanomos@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 57,
+      "name" : "Γκερέκου Αγγελική",
+      "national_identity": "Greek",
+
+      "email" : "a.gkerekou@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gerekouaggeliki_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 58,
+      "name" : "Ιωάννης Γκιόκας",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 59,
+      "name" : "Γκιουλέκας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "info@gioulekas.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Gkioulekas_001.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 60,
+      "name" : "Γκόκας Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "ch.gokas@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gokas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 61,
+      "name" : "Εμμανουήλ Γλέζος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 62,
+      "name" : "Γρέγος Αντώνιος",
+      "national_identity": "Greek",
+
+      "email" : "a.gregos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 63,
+      "name" : "Δαβάκης Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "a.davakis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserFiles/ead3237d-2c71-43a9-b9ae-057fcbd6268d/%ce%b8%ce%b1%ce%bd%ce%ac%cf%83%ce%b7%cf%82%20%ce%b4%ce%b1%ce%b2%ce
+
+%ac%ce%ba%ce%b7%cf%82.bmp",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 64,
+      "name" : "Αθανάσιος Δαβάκης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 65,
+      "name" : "Δένδιας Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "dendias2@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dendias.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 66,
+      "name" : "Αλέξανδρος Δερμεντζόπουλος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 67,
+      "name" : "Δερμιτζάκης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "k.dermitzakis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Dermitzakis_001.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 68,
+      "name" : "Δημαράς Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "idimaras@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dimaras.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 69,
+      "name" : "Δήμας Πύρρος",
+      "national_identity": "Greek",
+
+      "email" : "p.dimas@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kollia-tsaroucha.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 70,
+      "name" : "Δήμας Χρίστος",
+      "national_identity": "Greek",
+
+      "email" : "christos@dimas.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Dimas_3.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 71,
+      "name" : "Διακάκη Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "mariadiakaki2@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/diakaki.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 72,
+      "name" : "Διαμαντόπουλος Ευάγγελος",
+      "national_identity": "Greek",
+
+      "email" : "v.diamanto@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 73,
+      "name" : "Διώτη Ηρώ",
+      "national_identity": "Greek",
+
+      "email" : "irodioti@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/DIOTIIRO.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 74,
+      "name" : "Δραγασάκης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "ydragasakis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dragasakis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 75,
+      "name" : "Δριβελέγκας Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "gdriv10@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/drivelegasioannis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 76,
+      "name" : "Δρίτσας Θεόδωρος",
+      "national_identity": "Greek",
+
+      "email" : "synpirea@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dritsasth.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 77,
+      "name" : "Δριτσέλη Παναγιώτα",
+      "national_identity": "Greek",
+
+      "email" : "pandritseli@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 78,
+      "name" : "Ζαρούλια Ελένη",
+      "national_identity": "Greek",
+
+      "email" : "el.zaroulia@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 79,
+      "name" : "Ζαχαριάς Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "kozax@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 80,
+      "name" : "Ζεϊμπέκ Χουσεϊν",
+      "national_identity": "Greek",
+
+      "email" : "zeybek@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/%ce%96%ce%b5%cf%8a%ce%bc%cf%80%ce%b5%ce%ba%20%ce
+
+%a7%ce%bf%cf%85%cf%83%ce%b5%ce%af%ce%bd.jpeg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 81,
+      "name" : "Ζερδελής Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "izer61@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 82,
+      "name" : "Ζησιμόπουλος Πολύβιος",
+      "national_identity": "Greek",
+
+      "email" : "p.zisimopoulos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 83,
+      "name" : "Ηλιόπουλος Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "p.iliopoulos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 84,
+      "name" : "Θεοπεφτάτου Αφροδίτη",
+      "national_identity": "Greek",
+
+      "email" : "atheop@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 85,
+      "name" : "Ιατρίδη Τσαμπίκα",
+      "national_identity": "Greek",
+
+      "email" : "mika-iat@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 86,
+      "name" : "Αικατερίνη Ιγγλέζη ",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 87,
+      "name" : "Ιωαννίδης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "g.ioannidis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/ioannidisgiannis.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 88,
+      "name" : "Κακλαμάνης Νικήτας",
+      "national_identity": "Greek",
+
+      "email" : "press@nkaklamanis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kaklamanisnik.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 89,
+      "name" : "Κακλαμάνης Απόστολος",
+      "national_identity": "Greek",
+
+      "email" : "ak@apkaklamanis.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/melas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 90,
+      "name" : "Καλαντζής Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "kalangis@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kalantzis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 91,
+      "name" : "Καλαφάτης Σταύρος",
+      "national_identity": "Greek",
+
+      "email" : "info@stavroskalafatis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kalafatisStavros_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 92,
+      "name" : "Καλογερή Αγνή",
+      "national_identity": "Greek",
+
+      "email" : "dchrisag@hotmail.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Agni-Kalogeri.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 93,
+      "name" : "Καλογιάννης Σταύρος",
+      "national_identity": "Greek",
+
+      "email" : "skaloyan@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Kalogiannis2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 94,
+      "name" : "Καμμένος Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "p.kammenos@anexartitoiellines.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kamenos2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 95,
+      "name" : "Κανέλλη Γαρυφαλλιά",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 96,
+      "name" : "Κανελλοπούλου Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "maria.kanello@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 97,
+      "name" : "Καπερνάρος Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "vkaperna@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 98,
+      "name" : "Καρά Μεμέτ",
+      "national_identity": "Greek",
+
+      "email" : "ayhankarayusuf@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 99,
+      "name" : "Καραγιαννίδης Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "ckaragiannidis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/karagiannidischristos_2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 100,
+      "name" : "Καραγκούνης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "kkaragounis@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KARAGOUNISKONSTANTINOS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 101,
+      "name" : "Καραθανασόπουλος Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 102,
+      "name" : "Καραμανλή Άννα",
+      "national_identity": "Greek",
+
+      "email" : "karamanlia@yahoo.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/karamanlianna_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 103,
+      "name" : "Καραμανλής Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "karamanlis.office@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/karamanlis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 104,
+      "name" : "Καράμπελας Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "karampelas@parliament.gr;",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 105,
+      "name" : "Καρανάσιος Ευθύμιος",
+      "national_identity": "Greek",
+
+      "email" : "karef@karef.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/karanasioseft_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 106,
+      "name" : "Καράογλου Θεόδωρος",
+      "national_identity": "Greek",
+
+      "email" : "info@karaoglou.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/karaogloutheod.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 107,
+      "name" : "Καρασμάνης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "karasmanis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KARASMANISGEORGIOS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 108,
+      "name" : "Κασαπίδης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "kasapidi@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 109,
+      "name" : "Κασιδιάρης Ηλίας",
+      "national_identity": "Greek",
+
+      "email" : "i.kasidiaris@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 110,
+      "name" : "Κασσής Μιχαήλ",
+      "national_identity": "Greek",
+
+      "email" : "info@mkassis.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kassismich.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 111,
+      "name" : "Κατριβάνου Βασιλική",
+      "national_identity": "Greek",
+
+      "email" : "v.katrivanou@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Katrivanouvas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 112,
+      "name" : "Κατσαφάδος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "katsafados@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/katsafadoskonst.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 113,
+      "name" : "Κατσώτης Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 114,
+      "name" : "Καφαντάρη Χαρούλα",
+      "national_identity": "Greek",
+
+      "email" : "kafantari@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KafantariXaroula.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 115,
+      "name" : "Κεγκέρογλου Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "info@kegeroglou.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/gegeroglouvasilis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 116,
+      "name" : "Κεδίκογλου Συμεών",
+      "national_identity": "Greek",
+
+      "email" : "symeonk@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kedikoglousimeonp.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 117,
+      "name" : "Κεδίκογλου Συμεών",
+      "national_identity": "Greek",
+
+      "email" : "info@kedikoglou.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kedikoglou_simos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 118,
+      "name" : "Κέλλας Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "kellas.xristos@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KellasAGL_5311.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 119,
+      "name" : "Κεφαλογιάννη Όλγα",
+      "national_identity": "Greek",
+
+      "email" : "ol.kefalogianni@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/FOTO%20KEFALOGIANNI%20OLGA.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 120,
+      "name" : "Εμμανουήλ Κεφαλογιάννης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 121,
+      "name" : "Κεφαλογιάννης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "ykefalogiannis@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kefalogiannisgiannis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 122,
+      "name" : "Κικίλιας Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "vassilis.kikilias@kikilias.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kikiliasvasilios.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 123,
+      "name" : "Κλειτσιώτης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "k.kleitsiotis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kleitsiotiskonstantinos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 124,
+      "name" : "Κοδέλας Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "dimitriskodelas@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 125,
+      "name" : "Μαρία Κόλλια-Τσαρουχά",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 126,
+      "name" : "Κόλλιας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "po@kolliaskostas.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kolliaskon.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 127,
+      "name" : "Κόνσολας Εμμανουήλ",
+      "national_identity": "Greek",
+
+      "email" : "Konsolasmanos@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/konsolasem.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 128,
+      "name" : "Κοντογεώργος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "kostaskontogeorgos@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kontogeorgos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 129,
+      "name" : "Κοντογιάννης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "g-kont@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kontogiannis_giorg.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 130,
+      "name" : "Κοντονής Χαράλαμπος-Σταύρος",
+      "national_identity": "Greek",
+
+      "email" : "kontonis@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kontonisstavros_2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 131,
+      "name" : "Κοντός Αλέξανδρος",
+      "national_identity": "Greek",
+
+      "email" : "alekos.kontos@yahoo.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kontosalex.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 132,
+      "name" : "Κουβέλης Φώτιος",
+      "national_identity": "Greek",
+
+      "email" : "kouvelis@activenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 133,
+      "name" : "Κούζηλος Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "n.kouzilos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 134,
+      "name" : "Κουίκ Τέρενς",
+      "national_identity": "Greek",
+
+      "email" : "t.quick@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 135,
+      "name" : "Κουκοδήμος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "info@koukodimos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/koukodimoskostas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 136,
+      "name" : "Κουκουλόπουλος Παρασκευάς",
+      "national_identity": "Greek",
+
+      "email" : "info@koukoulopoulos.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/koukoulopoulosparis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 137,
+      "name" : "Κουκούτσης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "d.koukoutsis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 138,
+      "name" : "Κουντουρά Έλενα",
+      "national_identity": "Greek",
+
+      "email" : "kountoura.e@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kountoura.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 139,
+      "name" : "Κουράκης Αναστάσιος",
+      "national_identity": "Greek",
+
+      "email" : "kourakis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kourakis_2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 140,
+      "name" : "Κουράκος Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "kourakos1@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 141,
+      "name" : "Κουρουμπλής Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "panagiotis@kouroumplis.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kouroumplis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 142,
+      "name" : "Κουτσογιαννακόπουλος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "kkoutsog@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/koutsogiannakopouloskon.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 143,
+      "name" : "Κουτσούκος Γιάννης",
+      "national_identity": "Greek",
+
+      "email" : "j.koutsoukos@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/koutsoukos_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 144,
+      "name" : "Κουτσούμπας Ανδρέας",
+      "national_identity": "Greek",
+
+      "email" : "kutsubad@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/koutsoubas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 145,
+      "name" : "Κοψαχείλης Τιμολέων",
+      "national_identity": "Greek",
+
+      "email" : "kopstim@hotmail.com;",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 146,
+      "name" : "Κρεμαστινός Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "kremastinos@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Kremastinos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 147,
+      "name" : "Κριτσωτάκης Μιχαήλ",
+      "national_identity": "Greek",
+
+      "email" : "mkrits@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/KRITSOTAKISMICHALIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 148,
+      "name" : "Κυριαζίδης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "d.kyriazidis@parliament.gr;",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 149,
+      "name" : "Κυριακάκης Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "v.kiriakakis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 150,
+      "name" : "Κυρίτσης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "g.kyritsis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 151,
+      "name" : "Κωνσταντινίδης Ευστάθιος",
+      "national_identity": "Greek",
+
+      "email" : "st.konstantinidis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/konstantinidis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 152,
+      "name" : "Κωνσταντινίδης Θεοδόσιος",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 153,
+      "name" : "Κωνσταντινόπουλος Οδυσσέας",
+      "national_identity": "Greek",
+
+      "email" : "arkadia_odysseas@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 154,
+      "name" : "Κωνσταντόπουλος Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "gkonst9@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kwnstantopoulos_l.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 155,
+      "name" : "Κωνσταντοπούλου Ζωή",
+      "national_identity": "Greek",
+
+      "email" : "zkonst@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 156,
+      "name" : "Λαγός Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "i.lagos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 157,
+      "name" : "Λαζαρίδης Χρύσανθος",
+      "national_identity": "Greek",
+
+      "email" : "chlazaridis@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 158,
+      "name" : "Λαμπρόπουλος Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "lampropoulos@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/lampropoulos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 159,
+      "name" : "Λαμπρούλης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 160,
+      "name" : "Λαφαζάνης Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "lafazanis@syn.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/LAFAZANISPANAYIOTIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 161,
+      "name" : "Λεονταρίδης Θεόφιλος",
+      "national_identity": "Greek",
+
+      "email" : "leontaridis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/leontaridistheofilos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 162,
+      "name" : "Λοβέρδος Ανδρέας",
+      "national_identity": "Greek",
+
+      "email" : "loverdos@hol.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/avramidisgavriil.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 163,
+      "name" : "Λυκούδης Σπυρίδων",
+      "national_identity": "Greek",
+
+      "email" : "spyros.lykoudis@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 164,
+      "name" : "Λυκουρέντζος Ανδρέας",
+      "national_identity": "Greek",
+
+      "email" : "alikourentzos@nd.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/likouretzosAndreas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 165,
+      "name" : "Μακρή Ευαγγέλου",
+      "national_identity": "Greek",
+
+      "email" : "elmakri@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/makri-theodoroueleni.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 166,
+      "name" : "Μακρή Ραχήλ",
+      "national_identity": "Greek",
+
+      "email" : "rachil.makri@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 167,
+      "name" : "Μακρή Ζωή",
+      "national_identity": "Greek",
+
+      "email" : "zettamakri@yahoo.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/makrizeta.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 168,
+      "name" : "Μανδρέκα Ασπασία",
+      "national_identity": "Greek",
+
+      "email" : "aspasiamandreka@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 169,
+      "name" : "Μάνη-Παπαδημητρίου ΄Αννα",
+      "national_identity": "Greek",
+
+      "email" : "annamani@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mani-papadimitriou.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 170,
+      "name" : "Μανιάτης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "i.maniatis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/MANIATIS3_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 171,
+      "name" : "Μαντάς Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "chmantas@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mantas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 172,
+      "name" : "Μανωλάκου Διαμάντω",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 173,
+      "name" : "Επαμεινώνδας Μαριάς ",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 174,
+      "name" : "Μαρίνος Ανδρέας",
+      "national_identity": "Greek",
+
+      "email" : "andreasmarinos@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Marinos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 175,
+      "name" : "Μαρκογιαννάκης Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "ch.markogiannakis@yahoo.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/MarkogiannakisChristos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 176,
+      "name" : "Μαρκόπουλος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "k.markopoulos@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/markopoulos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 177,
+      "name" : "Μάρκου Αικατερίνη",
+      "national_identity": "Greek",
+
+      "email" : "k.markou@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 178,
+      "name" : "Μαρτίνου Γεωργία",
+      "national_identity": "Greek",
+
+      "email" : "grafeio.voulas@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/martinougeorgia.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 179,
+      "name" : "Ματθαιόπουλος Αρτέμιος",
+      "national_identity": "Greek",
+
+      "email" : "matthaiopoulos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 180,
+      "name" : "Μεϊκόπουλος Αλέξανδρος",
+      "national_identity": "Greek",
+
+      "email" : "alexandros.meikopoulos@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/meikopoulosal.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 181,
+      "name" : "Μεϊμαράκης Ευάγγελος",
+      "national_identity": "Greek",
+
+      "email" : "info@meimarakis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/meimarakisev.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 182,
+      "name" : "Παναγιώτης Μελάς",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 183,
+      "name" : "Μηταράκης Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "office@mitarakis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Mitarakisp.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 184,
+      "name" : "Μητρόπουλος Αλέξιος",
+      "national_identity": "Greek",
+
+      "email" : "amitropoulos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 185,
+      "name" : "Μητσοτάκης Κυριάκος",
+      "national_identity": "Greek",
+
+      "email" : "kyriakos@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mitsotakis1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 186,
+      "name" : "Μιχαλάκης Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "nikmicha@yahoo.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/michalakisnikos.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 187,
+      "name" : "Μιχαλολιάκος Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "n.mihaloliakos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 188,
+      "name" : "Μιχελάκης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "johnmichelakis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mixelakis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 189,
+      "name" : "Μιχελογιαννάκης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "imichelogiannakis@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/imichelogiannakisioan.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 190,
+      "name" : "Μίχος Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "n.mixos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 191,
+      "name" : "Μουτσινάς Παρίσης",
+      "national_identity": "Greek",
+
+      "email" : "p.moutsinas@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 192,
+      "name" : "Μπακογιάννη Θεοδώρα",
+      "national_identity": "Greek",
+
+      "email" : "gram@dorabak.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/MPAKOGIANNH.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 193,
+      "name" : "Μπάρκας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "barkascon@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 194,
+      "name" : "Μπαρμπαρούσης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "k.mparmparousis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 195,
+      "name" : "Μπασιάκος Ευάγγελος",
+      "national_identity": "Greek",
+
+      "email" : "",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mpasiakos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 196,
+      "name" : "Μπατσαρά Γεωργία",
+      "national_identity": "Greek",
+
+      "email" : "gbatsara@yahoo.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/batsara_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 197,
+      "name" : "Μπέζας Αντώνιος",
+      "national_identity": "Greek",
+
+      "email" : "bezasant@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/mpezas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 198,
+      "name" : "Μπόλαρη Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "mariabolari@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 199,
+      "name" : "Μπόλαρης Μάρκος",
+      "national_identity": "Greek",
+
+      "email" : "bolaris@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 200,
+      "name" : "Μπούκουρας Ευστάθιος",
+      "national_identity": "Greek",
+
+      "email" : "e.mpoukouras@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 201,
+      "name" : "Μπούρας Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "bouras@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/bouras.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 202,
+      "name" : "Μπριάνης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 203,
+      "name" : "Αλέξανδρος Μωραϊτάκης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 205,
+      "name" : "Μωραΐτης Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "kke@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 204,
+      "name" : "Μωραΐτης Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "thanos@moraitisthanos.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/moraitisthan.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 206,
+      "name" : "Νεράντζης Αναστάσιος",
+      "national_identity": "Greek",
+
+      "email" : "tassos@nerantzis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Nerantzis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 207,
+      "name" : "Νίκος Νικολόπουλος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 208,
+      "name" : "Νταβλούρος Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "thanasis.davlouros@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 209,
+      "name" : "Νταβρής Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "artdavris@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 210,
+      "name" : "Ντινόπουλος Αργύρης",
+      "national_identity": "Greek",
+
+      "email" : "argyris@dinopoulos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dinopoulos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 211,
+      "name" : "Ντόλιος Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "gntolios@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/ntoliosGeorgios.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 212,
+      "name" : "Ξανθός Ανδρέας",
+      "national_identity": "Greek",
+
+      "email" : "axanthos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 213,
+      "name" : "Ξηροτύρη Αικατερινάρη",
+      "national_identity": "Greek",
+
+      "email" : "xirotiri_vouli@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 214,
+      "name" : "Σταυρούλα Ξουλίδου",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 215,
+      "name" : "Οικονόμου Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "b.oikonomou@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 216,
+      "name" : "Ορφανός Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "info@orfanos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/orfanosGeorgios.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 217,
+      "name" : "Μαρίνος Ουζουνίδης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 218,
+      "name" : "Ουζουνίδου Ευγενία",
+      "national_identity": "Greek",
+
+      "email" : "syrizakozanis@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 219,
+      "name" : "Παναγιώταρος Ηλίας",
+      "national_identity": "Greek",
+
+      "email" : "il.panagiotaros@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 220,
+      "name" : "Παναγιωτόπουλος Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "info@npanagiotopoulos.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/panagiotopoulosn.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 221,
+      "name" : "Παναγιωτόπουλος Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "ppanagiotopoulos@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/panospanagiotopoulos_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 222,
+      "name" : "Παναγούλης Ευστάθιος",
+      "national_identity": "Greek",
+
+      "email" : "stathispanagoulis@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 223,
+      "name" : "Πανούσης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "i.panousis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 224,
+      "name" : "Πάντζας Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "gpantzas@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/pantzas_001.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 225,
+      "name" : "Δημήτριος Παπαδημούλης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 226,
+      "name" : "Παπαδόπουλος Μιχάλης",
+      "national_identity": "Greek",
+
+      "email" : "micpap1@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/PAPADOPOULOSMICHALIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 227,
+      "name" : "Παπακώστα Σιδηροπούλου",
+      "national_identity": "Greek",
+
+      "email" : "kat_papakosta@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/papakosta.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 228,
+      "name" : "Παπανδρέου Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/papandreou_g.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 229,
+      "name" : "Παπαρήγα Αλεξάνδρα",
+      "national_identity": "Greek",
+
+      "email" : "papariga@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 230,
+      "name" : "Παππάς Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "chr.pappas@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "xa",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 231,
+      "name" : "Παραστατίδης Θεόδωρος",
+      "national_identity": "Greek",
+
+      "email" : "th.parastatidis@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 232,
+      "name" : "Πασχαλίδης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "g.pasxalidis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Pasxalidis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 233,
+      "name" : "Πατριανάκου Φεβρωνία",
+      "national_identity": "Greek",
+
+      "email" : "info@patrianakou.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/FEVRONIA_PATRIANAKOU.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 234,
+      "name" : "Παυλόπουλος Προκόπιος",
+      "national_identity": "Greek",
+
+      "email" : "ppavlopoulos@prokopispavlopoulos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/pavlopoulos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 235,
+      "name" : "Αθανάσιος Παφίλης ",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 236,
+      "name" : "Πετράκος Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "thanasispetrakos@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 237,
+      "name" : "Πιπιλή Φωτεινή",
+      "national_identity": "Greek",
+
+      "email" : "fpipili@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/pipilifot.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 238,
+      "name" : "Πλακιωτάκης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "plakiotakisgiannis@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/PLAKIOTAKIS1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 239,
+      "name" : "Πολύδωρας Βύρων",
+      "national_identity": "Greek",
+
+      "email" : "vpolydoras@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 240,
+      "name" : "Ράπτη Ελένη",
+      "national_identity": "Greek",
+
+      "email" : "e.rapti@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/elena%20rapti%20EKLOGES%202012_photo.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 241,
+      "name" : "Ρεπούση Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "m.repousi@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 242,
+      "name" : "Ρήγας Παναγιώτης",
+      "national_identity": "Greek",
+
+      "email" : "p.rigas@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/RIGASPANAGIOTIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 243,
+      "name" : "Σοφία Σακοράφα",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 244,
+      "name" : "Σαλμάς Μάριος",
+      "national_identity": "Greek",
+
+      "email" : "msalmas@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/salmasmarios.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 245,
+      "name" : "Σαλτούρος Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "d.saltouros@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 246,
+      "name" : "Σαμαράς Αντώνιος",
+      "national_identity": "Greek",
+
+      "email" : "proedros@nd.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/SamarasA.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 247,
+      "name" : "Σαμοΐλης -",
+      "national_identity": "Greek",
+
+      "email" : "enalion@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/samoilis_001_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 248,
+      "name" : "Σαμπαζιώτης Δημήτρης",
+      "national_identity": "Greek",
+
+      "email" : "sabaziot@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/sampaziotisdimitris.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 249,
+      "name" : "Σαχινίδης Φίλιππος",
+      "national_identity": "Greek",
+
+      "email" : "philippos@sachinidis.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/SachinidisFilippos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 250,
+      "name" : "Σενετάκης Μάξιμος",
+      "national_identity": "Greek",
+
+      "email" : "maxsenetakis@gmail.com;",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 251,
+      "name" : "Σηφουνάκης Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "info@sifounakis.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/sifounakis.PNG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 252,
+      "name" : "Σκανδαλίδης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "kskan@pasok.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 253,
+      "name" : "Σκόνδρα Ασημίνα",
+      "national_identity": "Greek",
+
+      "email" : "asimina.skondra@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/skondraasimina.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 254,
+      "name" : "Σκρέκας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "info@skrekaskostas.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/SKREKAS-KONSTANTINOS.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 255,
+      "name" : "Σολδάτος Θεόδωρος",
+      "national_identity": "Greek",
+
+      "email" : "info@thsoldatos.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/soldatostheo.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 256,
+      "name" : "Αριστόβουλος Σπηλιωτόπουλος ",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 257,
+      "name" : "Σταθάκης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "stathakisgs@yahoo.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/stathakisgeorge.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 258,
+      "name" : "Σταθάς Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 259,
+      "name" : "Σταϊκούρας Χρήστος",
+      "national_identity": "Greek",
+
+      "email" : "cstaik@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/staikouraschristos_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 260,
+      "name" : "Σταμενίτης Διονύσιος",
+      "national_identity": "Greek",
+
+      "email" : "dstamenitis@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/stamenitisdion.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 261,
+      "name" : "Σταμπουλή Αφροδίτη",
+      "national_identity": "Greek",
+
+      "email" : "astampouli@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 262,
+      "name" : "Σταυρινούδη Σόδη",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "\"Ν.Δ. (αντικατάσταση του παραιτηθέντος βουλευτή Σταμάτη Κάρμαντζη, ο οποίος ",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 263,
+      "name" : "Στρατούλης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "stratoulis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/stratoulis_001.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 264,
+      "name" : "Στυλιανίδης Ευριπίδης",
+      "national_identity": "Greek",
+
+      "email" : "stylianidis@e-stylianidis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/STILIANIDISEVRIPIDIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 265,
+      "name" : "Στύλιος Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "stylios@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 266,
+      "name" : "Συρμαλένιος Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "nsyrm@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 267,
+      "name" : "Ταγαράς Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "ntagaras@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/Nikos-Tagaras-Korinthia1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 268,
+      "name" : "Ταλιαδούρος Σπυρίδων",
+      "national_identity": "Greek",
+
+      "email" : "sptaliad@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/taliadouros_2.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 269,
+      "name" : "Ταμήλος Μιχαήλ",
+      "national_identity": "Greek",
+
+      "email" : "mtamilos@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 270,
+      "name" : "Τασούλας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "tasoulas@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tasoulas.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 271,
+      "name" : "Τατσόπουλος Πέτρος",
+      "national_identity": "Greek",
+
+      "email" : "tatsopoulos@parliament.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 272,
+      "name" : "Τζαβάρας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "tzavaras@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tzavaraskonstantinos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 273,
+      "name" : "Τζάκρη Θεοδώρα",
+      "national_identity": "Greek",
+
+      "email" : "giannitsa@tzakri.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 274,
+      "name" : "Τζαμτζής Ιορδάνης",
+      "national_identity": "Greek",
+
+      "email" : "dtzamtzis@yahoo.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tzamtzis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 275,
+      "name" : "Τραγάκης Ιωάννης",
+      "national_identity": "Greek",
+
+      "email" : "i.tragakis@gmail.com;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tragakis03.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 276,
+      "name" : "Τριαντάφυλλος Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "kostas@ktriantafyllos.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/grigorakos.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 277,
+      "name" : "Τριανταφύλλου Μαρία",
+      "national_identity": "Greek",
+
+      "email" : "m.triantaf@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/triantafylloumaria.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 278,
+      "name" : "Τσαβδαρίδης Λάζαρος",
+      "national_identity": "Greek",
+
+      "email" : "ltsavdar@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tsavdaridislaz.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 279,
+      "name" : "Τσακαλώτος Ευκλείδης",
+      "national_identity": "Greek",
+
+      "email" : "tsakalot@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tsakalotosefk_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 280,
+      "name" : "Τσιάρας Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "politikografeio@kostastsiaras.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tsiaraskon.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 281,
+      "name" : "Τσίπρας Αλέξιος",
+      "national_identity": "Greek",
+
+      "email" : "a.tsipras@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/TSIPRASALEXIS.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 282,
+      "name" : "Τσουκαλάς Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "dimitrisvtsoukalas@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tsoukalasdim.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 283,
+      "name" : "Τσούκαλης Νικόλαος",
+      "national_identity": "Greek",
+
+      "email" : "n.tsoukalis@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 284,
+      "name" : "Τσουμάνης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "takis_tsoumanis@yahoo.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tsoumanis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 285,
+      "name" : "Υψηλάντης Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "ypsilaw@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/B.Ypsilantis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 286,
+      "name" : "Φούντα Νίκη",
+      "national_identity": "Greek",
+
+      "email" : "info@nikifounta.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 287,
+      "name" : "Φωτίου Θεανώ",
+      "national_identity": "Greek",
+
+      "email" : "thfotiou@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/fotioutheano.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 288,
+      "name" : "Χαϊκάλης Παύλος",
+      "national_identity": "Greek",
+
+      "email" : "p.chaikalis@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/haikalis_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 289,
+      "name" : "Χαλβατζής Σπυρίδων",
+      "national_identity": "Greek",
+
+      "email" : "spiros@KE.KKE.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "kke",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 290,
+      "name" : "Χαρακόπουλος Μάξιμος",
+      "national_identity": "Greek",
+
+      "email" : "maximos@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/harakopoulosmaximos.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 291,
+      "name" : "Χαραλαμπίδου Δέσποινα",
+      "national_identity": "Greek",
+
+      "email" : "dxaralampidou@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/charalampidou.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 292,
+      "name" : "Χατζή Ραήφ",
+      "national_identity": "Greek",
+
+      "email" : "ahmet.haciosman@gmail.com",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/xatzi.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 293,
+      "name" : "Χατζηδάκης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : "info@khatzidakis.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/chatzidakiskostis.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 294,
+      "name" : "Χατζηλάμπρου Βασίλειος",
+      "national_identity": "Greek",
+
+      "email" : "xatzilamprou@yahoo.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/CHATZILABROU%201.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "syriza",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 295,
+      "name" : "Χριστογιάννης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "christogiannisd@yahoo.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "nd",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 296,
+      "name" : "Χριστογιάννης Δημήτριος",
+      "national_identity": "Greek",
+
+      "email" : "politikografeio@christofilopoulou.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/cristogiannisdion.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 297,
+      "name" : "Μαρίνα Χρυσοβελώνη",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : "",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "anel",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 298,
+      "name" : "Χρυσοχοΐδης Μιχαήλ",
+      "national_identity": "Greek",
+
+      "email" : "mxgram@otenet.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/xoulidoustav.png",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "pasok",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 299,
+      "name" : "Ψαριανός Γρηγόριος",
+      "national_identity": "Greek",
+
+      "email" : "gripsar@otenet.gr",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 300,
+      "name" : "Ψύρρας Θωμάς",
+      "national_identity": "Greek",
+
+      "email" : "demarlarissa@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": "dimar",
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 302,
+      "name" : "Δαμαβολίτης Κωνσταντίνος",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 303,
+      "name" : "Δεικτάκης Γεώργιος",
+      "national_identity": "Greek",
+
+      "email" : "gdeiktakis@gmail.com",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 304,
+      "name" : "Δερμεντζόπουλος Αλέξανδρος",
+      "national_identity": "Greek",
+
+      "email" : "aldermen@otenet.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/dermentzopoulosalex.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 301,
+      "name" : "Ιακωβίδου Παναγιώτα",
+      "national_identity": "Greek",
+
+      "email" : "t.iakovidou@parliament.gr;",
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 305,
+      "name" : "Ιγγλέζη Αικατερίνη",
+      "national_identity": "Greek",
+
+      "email" : "igglezi@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/igglezi_1.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 306,
+      "name" : "Κούβελα Φωτεινή",
+      "national_identity": "Greek",
+
+      "email" : "kouvelaf@parliament.gr",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kouvelafoteini.jpg",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 307,
+      "name" : "Παπαδημητρίου Γεσθημανή",
+      "national_identity": "Greek",
+
+      "email" : null,
+      "image" : null,
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+,
+   
+
+	{
+          
+      "id" : 308,
+      "name" : "Πλεύρης Αθανάσιος",
+      "national_identity": "Greek",
+
+      "email" : "thanosplevris@parliament.gr;",
+      "image" : "http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/plevrisathan.JPG",
+          
+      
+	
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      "start_date" : "2012-06-06",,
+      "end_date": "2016-06-06"
+    },
+    {
+      "organization_id": null,
+      "start_date": "2012-06-06",
+      "end_date": "2016-06-06"
+    }
+  ]
+  
+    }
+

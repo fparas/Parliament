@@ -1,13 +1,23 @@
 Phase: Parlmember
 Input: Lookup Token
 Options: control = appelt
+Macro: PARENTHESES
+(
+{Token.string == "("}
+({Token})[2,10]
+{Token.string == ")"}
+)
 
 Rule: parlmember1
 (
 	{Lookup.majorType == parlmember}
-	)
+)
 :parlmember
+(
+(PARENTHESES)?
+{Token.string == ":"}
+)
 
 -->
 
-:parlmember.Parlmember = {kind = "name",majorType = "speaker"}
+:parlmember.Parlmember = {majorType = "speaker"}

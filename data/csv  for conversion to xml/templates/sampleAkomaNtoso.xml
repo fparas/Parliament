@@ -1,0 +1,1 @@
+xml<-xmlParse("<xml><akomaNtoso>  <debate name=\"play\"> <meta>   <references source=\"#\">  </references> </meta> <preface> <docTitle>The Tempest</docTitle> </preface> <debateBody>  </debateBody> </debate></akomaNtoso></xml>")

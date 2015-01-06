@@ -1,0 +1,16 @@
+{
+    "contents" : "shinyServer(function(input, output) {\n})\n",
+    "created" : 1418217952329.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3355967578",
+    "id" : "B9ACDD08",
+    "lastKnownWriteTime" : 1418218291,
+    "path" : "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/R project/parliamentShiny/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

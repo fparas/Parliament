@@ -1,6 +1,10 @@
 Phases:
-Chairman
+Date
 Parlmember
+Chairman
 Province
-Speech
-Parlmember_ontology
+ChairmanSpeechStart
+ParlmemberSpeechStart
+ParlmemberSpeech
+ChairmanSpeech
+Report

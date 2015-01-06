@@ -1,0 +1,16 @@
+{
+    "contents" : "function (greekMPInformation) \n{\n    require(\"XML\")\n    require(\"date\")\n    fileList<-list.files(getwd())\n        \n    #For each conference file\n    \n    for (i in 1:length(fileList)){\n        \n        #initializing template and getting data\n        xml<-xmlParse(\"<akomaNtoso>  <debate name=\\\"Conference\\\"> <meta>   <references source=\\\"#\\\">  </references> </meta> <preface> </preface> <debateBody>  </debateBody> </debate></akomaNtoso>\")\n        root<-xmlRoot(xml)\n        date<-fileList[[i]]\n        input<-read.csv(date)\n        \n        parlmembers<-unique(input$SpeakerID)\n        parlmembers<-parlmembers[!is.na(parlmembers)]\n        \n        #Adding Parliament Members\n        for (i in 1:length(parlmembers)){\n            \n            speakerID = parlmembers[i]\n            name = greekMPInformation$name[greekMPInformation$id==parlmembers[i]]\n            \n            node<-newXMLNode(name = \"TLCPerson\", attrs = c(\n                id = speakerID, \n                href = paste0(\"ontology/parlmember/s\",speakerID),\n                showAs = as.character(name)\n            )\n            )\n            \n            addChildren(root[[1]][[1]][[1]],node)\n        }    \n        #Adding Title\n        addChildren(root[[1]][[2]],newXMLNode(\"docTitle\",paste(\"Συνεδρίαση της βουλης των Ελληνων : \",date)))\n        \n        #Adding speeches\n        speechBodies<-as.character(input$SpeechBody)\n        ids<-as.character(input$SpeakerID)\n        speakers<-as.character(input$Speaker)\n        \n        for (i in 1:nrow(input)){\n            \n            #Removing trash\n            #speechBodies[i]<-gsub(\"\\\\n\",\"<br />\",speechBodies[i])\n            speechBodies[i]<-gsub(\"\\\\([^)]+\\\\)\",\"\",speechBodies[i])\n            speechBodies[i]<-gsub(\"Σελ. \\\\d+\",\"\",speechBodies[i])\n            \n            attributes<-c()\n                     \n            if (!is.na(ids[i])){\n                byValue<- paste0(\"#s\",ids[i])\n                attributes<-c(by=byValue)\n            }\n            \n            node<-newXMLNode(name = \"speech\",.children=c(newXMLNode(name=\"from\",speakers[i]),speechBodies[i]), attrs = attributes)\n            \n            addChildren(root[[1]][[3]],node)\n            \n        }\n        #Converting date from ddmmyyyy to yyyymmdd\n        date<-as.Date(as.date(date,order=\"dmy\"))\n        #Saving file\n        file = paste0(date,\".xml\")\n        xml.string.type<-saveXML(prefix = NULL, doc=xml,encoding=\"utf-8\")\n        \n    }\n    \n}\n",
+    "created" : 1419962518198.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3177720985",
+    "id" : "95C1DC71",
+    "lastKnownWriteTime" : 1419962504,
+    "path" : "C:/Users/FOTIS~1.PAR/AppData/Local/Temp/RtmpWOpJLc/file19d4294f74ad",
+    "project_path" : null,
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

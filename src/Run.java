@@ -7,8 +7,11 @@ import gate.util.Err;
 import gate.util.GateException;
 import gate.util.Out;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.sql.SQLException;
 import java.text.ParseException;
@@ -19,14 +22,16 @@ import java.util.Locale;
 
 
 public class Run {
-final static String PATH = "D:/Corpora/TestFolder/";
-final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis/workspace/Parliament/dict/ParlMembers.lst";
-	
+final static String PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/corpus/txt/";
+final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/dict/ParlMembers.lst";
+
+
 	public static void main (String args[]) throws IOException, ParseException, GateException, ClassNotFoundException, SQLException{
 		
+			
 		System.out.println(PATH);
 		
-		
+		IO.URLRead("12","2012");
 		
 		
 		//*********************************************** /GATE *****************************			
@@ -74,59 +79,49 @@ final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis/workspace/Parliament/
 		 
 		 
 		//Initializing 
-		Dictionary dictParlMembers=new Dictionary(PARLMEMBER_DICT_PATH);
-		dictParlMembers.check("Παναγιώτης Σγουρίδης");
+		/*Dictionary dictParlMembers=new Dictionary(PARLMEMBER_DICT_PATH);
 		dbManager d=new dbManager();
 		File fileList [] = new File(PATH).listFiles();
-		System.out.println(fileList.length);
-		//RunGate r = new RunGate();
 		
-		//
-		
-//		
-//		
-//		
+		//System.out.println(IO.readFile(PATH + fileList[1].getName(), StandardCharsets.UTF_8));
 		for (int i=1;i<fileList.length;i++){
-			
-			System.out.println("File Number : " + i + "Name : " + fileList[i].getName() );
+			System.out.println(fileList[i]);
 			String conferencePath = PATH + fileList[i].getName();
 			
-			Conference c = new Conference(new SimpleDateFormat("yyyy-MM-dd", Locale.ENGLISH).parse(fileList[i].getName()),IO.readFile(conferencePath, StandardCharsets.UTF_8));
-			//r.Run(conferencePath);
+			String content = IO.newReadFile(conferencePath);
+			System.out.println(content);
+			System.out.println("File number " + i);*/
+				
 			
+			
+			//Conference c = new Conference(new SimpleDateFormat("yyyy-MM-dd", Locale.ENGLISH).parse(fileList[i].getName()),IO.readFile(conferencePath, StandardCharsets.UTF_8));
+			//Conference c = new Conference (content);		
 			
 			//System.out.println("Built");
-			System.out.println(c.findChairman());
-			int confID = d.insertConference(c);
+			//System.out.println(c.findChairman());
+			//int confID = d.insertConference(c);
 
-//				 
-//			
-//			
-//			
-//			
-//			
+		
 			//List <ParlMember> speakers = c.findSpeakers();
-			for (int j=0;j<c.reports.size();j++){
+       			
+				/*for (int j=0;j<c.reports.size();j++){
 				ParlReport report = c.reports.get(j);
 				System.out.println(report);
 				
 				d.insertReport(report,confID);
-				
+				*/
 			}
-			//c.updateDictionary();
-			
-//			System.out.println(c);
 			
 		
 		//for (int i=0;i<fileList.length;i++)
 		//System.out.println(readFile(PATH + fileList[1].getName(), StandardCharsets.UTF_8 ));	
 	}
 	
-		d.close();
-	}
+		
+
 	
 	
 	
-}
+
 
 

@@ -1,0 +1,22 @@
+Phase: Report
+Input: Token Parlmember Chairman Lookup	Province
+Options: control = appelt
+
+
+Rule: report1
+
+
+
+	(
+	({Token.string == "Βουλευτής"})
+	({Province})
+	({Token.string == "κ"})
+	({Token.string == "."})
+	({Parlmember})
+	({Token, !Lookup.majorType=="reportstopword"})*
+	):report
+
+-->
+
+
+:report.Report = {rule = "report1"}

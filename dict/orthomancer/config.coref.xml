@@ -1,0 +1,15 @@
+<coref.Config>
+  <taggers>
+   
+    <default.taggers.Alias id="1" annotationType="Parlmember" 
+        aliasFile="aliasNames.tsv" encoding="UTF-8"/>
+    </taggers>
+  
+  <matchers>
+    
+        <default.matchers.Alias annotationType="Parlmember" antecedentType="Parlmember" encoding="UTF-8">
+          <aliasTagger reference="1"/>
+        </default.matchers.Alias>        
+     
+  </matchers>
+</coref.Config>

@@ -1,0 +1,19 @@
+Phase: ChairmanSpeechStart
+Input: Token Parlmember Chairman Lookup	SpeechStart
+Options: control = appelt
+
+
+Rule: chairmanspeechstart1 
+
+
+	(	
+	({Token.string == "ΠΡΟΕΔΡΟΣ"} | {Token.string == "ΠΡΟΕΔΡΕΥΩΝ"} | {Token.string == "ΠΡΟΕΔΡΕΥΟΥΣΑ"})
+	{Token.string == "("}
+	)
+	
+	({Chairman}
+	{Token.string == ")"}
+	{Token.string == ":"}
+	):chairmanspeechstart
+-->	
+:chairmanspeechstart.SpeechStart = {majorType="ChairmanSpeechStart"}

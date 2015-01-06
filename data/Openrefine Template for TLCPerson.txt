@@ -1,0 +1,73 @@
+    'persons':[
+
+	{
+          
+      "id" : {{jsonize(cells["id"].value)}},
+      "name" : {{jsonize(cells["name"].value)}},
+      "other_names" : [
+		{
+			"name" :{{jsonize(cells["firstname"].value + " " +cells["surname"].value)}} 
+			"note" : "Legal name" 
+		},
+		{
+			"name" : {{jsonize(cells["alternativename"].value)}}
+                        "note": "Alternative Name"
+		},
+                {
+			"name" : {{jsonize(cells["fullname"].value)}},
+                        "note": "Full Name"
+		}
+      
+      "national_identity": "Greek"
+      "picture" : {{jsonize(cells["picture"].value)}},
+      "email" : {{jsonize(cells["email and homepage 1"].value)}},
+      "image" : {{jsonize(cells["picture"].value)}},
+          
+      
+	  
+	  "links": [
+    {
+      "url": {{jsonize(cells["email and homepage 2"].value)}},
+      "note": "links line 1"
+    },
+    {
+      "url": {{jsonize(cells["email and homepage 3"].value)}},
+      "note": "links line 2"
+    },
+    {
+      "url": {{jsonize(cells["email and homepage 4"].value)}},
+      "note": "links line 3"
+    },
+   ],
+   
+   
+   
+    "contact_details": [
+    {
+      "type": "cell",
+      "label": "Contact Info",
+      "value": "{{jsonize(cells["contact_info"].value)}}",
+      "note": "Need to be split"
+    }
+  ],
+   
+   
+  
+	
+
+	"memberships": [
+    {
+      "organization_id": "hellenic_parliament",
+      "post_id": "mp-greece",
+      {{jsonize(cells["parliament_start_date"].value)}},
+      "end_date": ""
+    },
+    {
+      "organization_id": {{jsonize(cells["politicalparty"].value)}},
+      "start_date": "",
+      "end_date": ""
+    },
+  ]
+  
+    }
+]

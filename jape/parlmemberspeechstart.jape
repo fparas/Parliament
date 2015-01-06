@@ -1,0 +1,19 @@
+Phase: ParlmemberSpeechStart
+Input: Token Parlmember Chairman Lookup	
+Options: control = appelt
+Macro: PARENTHESES
+(
+{Token.string == "("}
+({Token})[2,10]
+{Token.string == ")"}
+)
+
+Rule: speechstart1 
+(
+
+	({Parlmember})
+	(PARENTHESES)?
+	{Token.string == ":"}
+	):speechstart
+-->	
+:speechstart.SpeechStart = {majorType="ParlmemberSpeechStart"}

@@ -4,7 +4,7 @@ Options: control = appelt
 
 Macro: NAME
 (
-({Token})[2,3]
+({Token})[2,4]
 )
 
 Rule: chairman1 
@@ -14,5 +14,5 @@ Rule: chairman1
 	(NAME):chairman
 	({Token.string == ")"})
 -->
-:chairman.Chairman = {kind = "name", rule = "chairman1", majorType = "speaker"}
+:chairman.Chairman = {majorType = "speaker"}
 		
