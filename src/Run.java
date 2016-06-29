@@ -22,7 +22,7 @@ import java.util.Locale;
 
 
 public class Run {
-final static String PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/corpus/txt/";
+final static String PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/corpus/2014/";
 final static String PARLMEMBER_DICT_PATH = "C:/Users/fotis.paraschiakos/Dropbox/Public/Javaprojects/Parliament/Parliament/dict/ParlMembers.lst";
 
 

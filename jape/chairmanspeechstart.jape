@@ -1,5 +1,5 @@
 Phase: ChairmanSpeechStart
-Input: Token Parlmember Chairman Lookup	SpeechStart
+Input: Token Parlmember  
 Options: control = appelt
 
 
@@ -11,9 +11,8 @@ Rule: chairmanspeechstart1
 	{Token.string == "("}
 	)
 	
-	({Chairman}
+	({Parlmember.minorType=="chairman"}
 	{Token.string == ")"}
-	{Token.string == ":"}
 	):chairmanspeechstart
 -->	
 :chairmanspeechstart.SpeechStart = {majorType="ChairmanSpeechStart"}

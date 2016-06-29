@@ -1,0 +1,265 @@
+formula.baseline.full.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age+ Gender + BMI + X00227_Conclusion.angio +Totalprocedure + X00067_Hypertensie + X00068_Hypercholesterolemie + 
+                                         X00065_Diabetes.Mellitus + Smoking + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                         X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                         X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                         X00100_Kleplijden )
+
+formula.baseline.full<-as.formula(Surv(duration , as.numeric(Death))  ~ Age+ Gender + BMI + X00227_Conclusion.angio +Totalprocedure + X00067_Hypertensie + X00068_Hypercholesterolemie + 
+                                    X00065_Diabetes.Mellitus + Smoking + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                    X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                    X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                    X00100_Kleplijden + X00146_LV.functie)
+
+
+formula.baseline.reduced<-as.formula(Surv(duration , as.numeric(Death)) ~ Age+ Gender + BMI + X00227_Conclusion.angio +
+                                       X00065_Diabetes.Mellitus + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                       X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                       X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                       X00100_Kleplijden + X00146_LV.functie)
+									   
+formula.baseline.reduced.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age+ Gender + BMI + X00227_Conclusion.angio +
+                                       X00065_Diabetes.Mellitus + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                       X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                       X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                       X00100_Kleplijden + X00146_LV.functie)									   
+
+formula.baseline.reduced.paired.squared.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ pol(Age,2) + X00146_LV.functie + 
+
+                                                           X00122_Chronisch.nierfalen + X00115_CVA..cerebraal.vasculair.accident. + 
+                                                           X00065_Diabetes.Mellitus + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+
+                                                           X00125_COPD + X00227_Conclusion.angio + Gender + X00100_Kleplijden + 
+                                                           X00146_LV.functie:X00125_COPD + pol(Age,2):X00115_CVA..cerebraal.vasculair.accident. + 
+                                                           X00115_CVA..cerebraal.vasculair.accident.:X00065_Diabetes.Mellitus + 
+                                                           X00065_Diabetes.Mellitus:Gender + X00127_Longembolie.DVT..diep.veneuze.trombose.:X00100_Kleplijden)
+
+
+formula.baseline.reduced.paired.squared<-as.formula(Surv(duration , as.numeric(Death)) ~ pol(Age,2) + X00146_LV.functie + 
+
+                                                      X00122_Chronisch.nierfalen + X00115_CVA..cerebraal.vasculair.accident. + 
+                                                      X00065_Diabetes.Mellitus + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+
+                                                      X00125_COPD + X00227_Conclusion.angio + Gender + X00100_Kleplijden + 
+                                                      X00146_LV.functie:X00125_COPD + pol(Age,2):X00115_CVA..cerebraal.vasculair.accident. + 
+                                                      X00115_CVA..cerebraal.vasculair.accident.:X00065_Diabetes.Mellitus + 
+                                                      X00065_Diabetes.Mellitus:Gender + X00127_Longembolie.DVT..diep.veneuze.trombose.:X00100_Kleplijden)
+
+
+formula.labdata.full.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age + Gender + c_b_wbc + c_b_neu + 
+                                        c_b_lym + c_b_mon + c_b_eos + c_b_bas + c_b_pneu + c_b_plym + 
+                                        c_b_pmon + c_b_peos + c_b_pbas + c_b_rbco + c_b_hb + c_b_mcv + 
+                                        c_b_rdw + c_b_mch  + c_b_ht + c_b_plto + c_b_mpv + 
+                                        c_b_pct + c_b_pdw + c_b_irf + c_b_namn + 
+                                        c_b_nimn + c_b_npmn + c_b_ndmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                        c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Lamn + c_b_Limn + c_b_Lacv + 
+                                        c_b_Licv + c_b_Pimn + c_b_Ppmn + c_b_Picv + c_b_Ppcv + c_b_rbcimn + 
+                                        c_b_rbcicv + c_b_rbcfmn + c_b_rbcfcv + c_b_MCHCr + c_b_HDW + 
+                                        c_b_MCHr + c_b_MCVr + c_b_pHPO + c_b_pHPR + c_b_pMAC + c_b_pMIC + 
+                                        c_b_prP)
+									
+formula.labdata.full<-as.formula(Surv(duration , as.numeric(Death)) ~ Age + Gender + c_b_wbc + c_b_neu + 
+                                        c_b_lym + c_b_mon + c_b_eos + c_b_bas + c_b_pneu + c_b_plym + 
+                                        c_b_pmon + c_b_peos + c_b_pbas + c_b_rbco + c_b_hb + c_b_mcv + 
+                                        c_b_rdw + c_b_mch  + c_b_ht + c_b_plto + c_b_mpv + 
+                                        c_b_pct + c_b_pdw + c_b_irf + c_b_namn + 
+                                        c_b_nimn + c_b_npmn + c_b_ndmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                        c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Lamn + c_b_Limn + c_b_Lacv + 
+                                        c_b_Licv + c_b_Pimn + c_b_Ppmn + c_b_Picv + c_b_Ppcv + c_b_rbcimn + 
+                                        c_b_rbcicv + c_b_rbcfmn + c_b_rbcfcv + c_b_MCHCr + c_b_HDW + 
+                                        c_b_MCHr + c_b_MCVr + c_b_pHPO + c_b_pHPR + c_b_pMAC + c_b_pMIC + 
+                                        c_b_prP)									
+formula.labdata.reduced.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age + Gender + c_b_wbc + 
+                                            c_b_mon + c_b_plym + 
+                                           c_b_pmon + c_b_peos + c_b_hb + c_b_mcv + 
+                                           c_b_rdw + c_b_mpv + 
+                                           + c_b_npmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                           c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Limn + c_b_Lacv + 
+                                           c_b_Licv + c_b_rbcfmn + c_b_MCHCr + c_b_MCVr + c_b_pMAC + c_b_pMIC)
+formula.labdata.reduced<-as.formula(Surv(duration , as.numeric(Death)) ~ Age + Gender + c_b_wbc + 
+                                            c_b_mon + c_b_plym + 
+                                           c_b_pmon + c_b_peos + c_b_hb + c_b_mcv + 
+                                           c_b_rdw + c_b_mpv 
+                                           + c_b_npmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                           c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Limn + c_b_Lacv + 
+                                           c_b_Licv + c_b_rbcfmn + c_b_MCHCr + c_b_MCVr + c_b_pMAC + c_b_pMIC)										   
+
+formula.labdata.squared<-as.formula(Surv(duration , as.numeric(Death))~pol(Age,2) + pol(c_b_rdw,2) + 
+                                      c_b_MCVr + pol(c_b_Lacv,2) + pol(c_b_nicv,2) + c_b_npmn + pol(c_b_nfcv,2) + 
+                                      Gender + pol(c_b_pMIC,2) + pol(c_b_mcv,2) + pol(c_b_nfmn,2) + 
+                                      c_b_wbc + pol(c_b_plym,2) + c_b_pmon)
+
+formula.labdata.squared.long<-as.formula(Surv(duration.long , as.numeric(Death.long))~pol(Age,2) + pol(c_b_rdw,2) + 
+                                           c_b_MCVr + pol(c_b_Lacv,2) + pol(c_b_nicv,2) + c_b_npmn + pol(c_b_nfcv,2) + 
+                                           Gender + pol(c_b_pMIC,2) + pol(c_b_mcv,2) + pol(c_b_nfmn,2) + 
+                                           c_b_wbc + pol(c_b_plym,2) + c_b_pmon)
+
+formula.labdata.paired.squared.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ pol(Age,2) + c_b_pMAC + c_b_rdw + 
+                                                  pol(c_b_rdw,2) + c_b_mon + c_b_MCVr + pol(c_b_Lacv,2) + c_b_nicv + 
+                                                  pol(c_b_mon,2) + c_b_npmn + c_b_mpv + Gender + pol(c_b_MCHCr,2) + 
+                                                  pol(c_b_nfcv,2) + c_b_plym + pol(c_b_mcv,2) + pol(c_b_ndcv,2) + 
+                                                  pol(c_b_peos,2) + c_b_rdw:c_b_mon + c_b_nicv:Gender + Gender:pol(c_b_MCHCr,2) + 
+                                                  c_b_rdw:c_b_nicv + c_b_rdw:c_b_plym + c_b_pMAC:pol(c_b_Lacv,2) + 
+                                                  c_b_pMAC:Gender + c_b_pMAC:pol(c_b_MCHCr,2) + pol(c_b_Lacv,2):pol(c_b_nfcv,2) + 
+                                                  c_b_mon:pol(c_b_MCHCr,2) + c_b_npmn:Gender)
+
+formula.labdata.paired.squared<-as.formula(Surv(duration , as.numeric(Death)) ~ pol(Age,2) + c_b_pMAC + c_b_rdw + 
+                                             pol(c_b_rdw,2) + c_b_mon + c_b_MCVr + pol(c_b_Lacv,2) + c_b_nicv + 
+                                             pol(c_b_mon,2) + c_b_npmn + c_b_mpv + Gender + pol(c_b_MCHCr,2) + 
+                                             pol(c_b_nfcv,2) + c_b_plym + pol(c_b_mcv,2) + pol(c_b_ndcv,2) + 
+                                             pol(c_b_peos,2) + c_b_rdw:c_b_mon + c_b_nicv:Gender + Gender:pol(c_b_MCHCr,2) + 
+                                             c_b_rdw:c_b_nicv + c_b_rdw:c_b_plym + c_b_pMAC:pol(c_b_Lacv,2) + 
+                                             c_b_pMAC:Gender + c_b_pMAC:pol(c_b_MCHCr,2) + pol(c_b_Lacv,2):pol(c_b_nfcv,2) + 
+                                             c_b_mon:pol(c_b_MCHCr,2) + c_b_npmn:Gender)
+
+
+formula.full<-as.formula(Surv(duration , as.numeric(Death)) ~ Age + Gender + BMI + X00227_Conclusion.angio + 
+                           Totalprocedure + X00067_Hypertensie + X00068_Hypercholesterolemie + 
+                           X00065_Diabetes.Mellitus + Smoking + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                           X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                           X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                           X00100_Kleplijden + X00146_LV.functie + c_b_wbc + c_b_neu + 
+                           c_b_lym + c_b_mon + c_b_eos + c_b_bas + c_b_pneu + c_b_plym + 
+                           c_b_pmon + c_b_peos + c_b_pbas + c_b_rbco + c_b_hb + c_b_mcv + 
+                           c_b_rdw + c_b_mch  + c_b_ht + c_b_plto + c_b_mpv + 
+                           c_b_pct + c_b_pdw + c_b_irf + c_b_namn + 
+                           c_b_nimn + c_b_npmn + c_b_ndmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                           c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Lamn + c_b_Limn + c_b_Lacv + 
+                           c_b_Licv + c_b_Pimn + c_b_Ppmn + c_b_Picv + c_b_Ppcv + c_b_rbcimn + 
+                           c_b_rbcicv + c_b_rbcfmn + c_b_rbcfcv + c_b_MCHCr + c_b_HDW + 
+                           c_b_MCHr + c_b_MCVr + c_b_pHPO + c_b_pHPR + c_b_pMAC + c_b_pMIC + 
+                           c_b_prP + Indication)
+
+formula.full.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age + Gender + BMI + X00227_Conclusion.angio + 
+                                Totalprocedure + X00067_Hypertensie + X00068_Hypercholesterolemie + 
+                                X00065_Diabetes.Mellitus + Smoking + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                X00100_Kleplijden + X00146_LV.functie + c_b_wbc + c_b_neu + 
+                                c_b_lym + c_b_mon + c_b_eos + c_b_bas + c_b_pneu + c_b_plym + 
+                                c_b_pmon + c_b_peos + c_b_pbas + c_b_rbco + c_b_hb + c_b_mcv + 
+                                c_b_rdw + c_b_mch  + c_b_ht + c_b_plto + c_b_mpv + 
+                                c_b_pct + c_b_pdw + c_b_irf + c_b_namn + 
+                                c_b_nimn + c_b_npmn + c_b_ndmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Lamn + c_b_Limn + c_b_Lacv + 
+                                c_b_Licv + c_b_Pimn + c_b_Ppmn + c_b_Picv + c_b_Ppcv + c_b_rbcimn + 
+                                c_b_rbcicv + c_b_rbcfmn + c_b_rbcfcv + c_b_MCHCr + c_b_HDW + 
+                                c_b_MCHr + c_b_MCVr + c_b_pHPO + c_b_pHPR + c_b_pMAC + c_b_pMIC + 
+                                c_b_prP + Indication)
+
+formula.reduced.fromshort.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age + Gender + X00068_Hypercholesterolemie + X00065_Diabetes.Mellitus + X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                             X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                             X00100_Kleplijden + X00146_LV.functie + c_b_wbc + c_b_neu +
+                                             c_b_mon + c_b_plym + c_b_pmon + c_b_peos + c_b_rdw + c_b_rbco + c_b_hb +
+                                             c_b_mpv + c_b_plto + c_b_npmn + c_b_nfmn + c_b_nacv + c_b_nicv +
+                                             c_b_npmn + c_b_nfmn + c_b_nacv + c_b_nicv + c_b_nfcv + c_b_Lacv + c_b_MCHCr + c_b_MCVr + c_b_pMAC + c_b_pMIC)
+
+
+formula.reduced.fromshort<-as.formula(Surv(duration , as.numeric(Death)) ~ Age + Gender + X00068_Hypercholesterolemie + X00065_Diabetes.Mellitus + X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                             X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                             X00100_Kleplijden + X00146_LV.functie + c_b_wbc + c_b_neu +
+                                             c_b_mon + c_b_plym + c_b_pmon + c_b_peos + c_b_rdw + c_b_rbco + c_b_hb +
+                                             c_b_mpv + c_b_plto + c_b_npmn + c_b_nfmn + c_b_nacv + c_b_nicv +
+                                             c_b_npmn + c_b_nfmn + c_b_nacv + c_b_nicv + c_b_nfcv + c_b_Lacv + c_b_MCHCr + c_b_MCVr + c_b_pMAC + c_b_pMIC)
+
+formula.reduced.fromlong.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age + Gender + BMI + X00227_Conclusion.angio + 
+                                            X00067_Hypertensie + X00068_Hypercholesterolemie + 
+                                            X00065_Diabetes.Mellitus + Smoking + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                            X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                            X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                            X00100_Kleplijden + X00146_LV.functie + c_b_wbc + c_b_neu + 
+                                            c_b_mon  + c_b_bas + c_b_pneu + c_b_plym + 
+                                            c_b_pmon + c_b_peos + c_b_pbas + c_b_rbco + c_b_hb + c_b_mcv + 
+                                            c_b_rdw + c_b_mch   + c_b_plto + c_b_mpv + 
+                                            c_b_pct + c_b_pdw + c_b_irf + c_b_namn + 
+                                            c_b_nimn + c_b_npmn + c_b_ndmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                            c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Lamn + c_b_Limn + c_b_Lacv + 
+                                            c_b_Licv + c_b_Pimn + c_b_Ppmn + c_b_Picv + c_b_Ppcv + c_b_rbcimn + 
+                                            c_b_rbcfmn + c_b_rbcfcv + c_b_MCHCr + 
+                                            c_b_MCHr + c_b_MCVr + c_b_pHPO + c_b_pHPR + c_b_pMAC + c_b_pMIC + 
+                                            c_b_prP + Indication)
+
+formula.reduced.fromlong<-as.formula(Surv(duration, as.numeric(Death)) ~ Age + Gender + BMI + X00227_Conclusion.angio + 
+                                            X00067_Hypertensie + X00068_Hypercholesterolemie + 
+                                            X00065_Diabetes.Mellitus + Smoking + X00074_PCI + X00093_ACS..acuut.coronair.syndroom. + 
+                                            X00115_CVA..cerebraal.vasculair.accident. + X00118_Perifeer.vaatlijden + 
+                                            X00122_Chronisch.nierfalen + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                            X00100_Kleplijden + X00146_LV.functie + c_b_wbc + c_b_neu + 
+                                            c_b_mon  + c_b_bas + c_b_pneu + c_b_plym + 
+                                            c_b_pmon + c_b_peos + c_b_pbas + c_b_rbco + c_b_hb + c_b_mcv + 
+                                            c_b_rdw + c_b_mch   + c_b_plto + c_b_mpv + 
+                                            c_b_pct + c_b_pdw + c_b_irf + c_b_namn + 
+                                            c_b_nimn + c_b_npmn + c_b_ndmn + c_b_nfmn + c_b_nacv + c_b_nicv + 
+                                            c_b_npcv + c_b_ndcv + c_b_nfcv + c_b_Lamn + c_b_Limn + c_b_Lacv + 
+                                            c_b_Licv + c_b_Pimn + c_b_Ppmn + c_b_Picv + c_b_Ppcv + c_b_rbcimn + 
+                                            c_b_rbcfmn + c_b_rbcfcv + c_b_MCHCr + 
+                                            c_b_MCHr + c_b_MCVr + c_b_pHPO + c_b_pHPR + c_b_pMAC + c_b_pMIC + 
+                                            c_b_prP + Indication)
+
+
+formula.paired.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ Age + X00146_LV.functie + c_b_pMAC + 
+                                  c_b_rdw + c_b_mon + c_b_Lacv + c_b_pMIC + c_b_MCVr + c_b_npmn + 
+                                  c_b_nicv + X00065_Diabetes.Mellitus + X00068_Hypercholesterolemie + 
+                                  X00115_CVA..cerebraal.vasculair.accident. + X00122_Chronisch.nierfalen + 
+                                  c_b_MCHr + Gender + c_b_nfmn + c_b_mcv + c_b_Pimn + c_b_pneu + 
+                                  c_b_nfcv + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                  c_b_neu + Smoking + c_b_rdw:c_b_pMIC + c_b_rdw:c_b_Lacv + 
+                                  c_b_pMAC:X00115_CVA..cerebraal.vasculair.accident. + X00115_CVA..cerebraal.vasculair.accident.:X00122_Chronisch.nierfalen + 
+                                  c_b_nicv:Gender + c_b_pMAC:Gender + c_b_MCHr:Gender + c_b_pMAC:X00068_Hypercholesterolemie + 
+                                  c_b_pMAC:c_b_Lacv + X00068_Hypercholesterolemie:Gender + 
+                                  Age:c_b_nfmn + c_b_Lacv:c_b_pMIC + X00146_LV.functie:c_b_pMIC + 
+                                  Age:c_b_pMIC + X00122_Chronisch.nierfalen:c_b_mcv + X00122_Chronisch.nierfalen:c_b_MCHr + 
+                                  c_b_pMAC:c_b_MCHr + c_b_nicv:c_b_Pimn + c_b_npmn:X00065_Diabetes.Mellitus + 
+                                  c_b_pMAC:c_b_mon + c_b_nfmn:c_b_mcv + c_b_pMIC:c_b_pneu + 
+                                  c_b_mon:c_b_neu + c_b_Lacv:c_b_pneu + X00146_LV.functie:X00068_Hypercholesterolemie + 
+                                  c_b_npmn:c_b_nfcv + c_b_pMAC:c_b_nicv + c_b_nfcv:c_b_neu + 
+                                  c_b_pneu:c_b_neu + c_b_mon:c_b_nfcv + c_b_mon:c_b_Pimn + 
+                                  c_b_rdw:c_b_nicv + c_b_rdw:X00068_Hypercholesterolemie + 
+                                  X00068_Hypercholesterolemie:X00115_CVA..cerebraal.vasculair.accident. + 
+                                  Age:c_b_Pimn + c_b_mcv:Smoking + X00125_COPD:Smoking + c_b_pMAC:X00122_Chronisch.nierfalen + 
+                                  c_b_pMAC:X00125_COPD + Age:Smoking + Gender:Smoking + Age:X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                  c_b_mon:X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                                  X00068_Hypercholesterolemie:c_b_Pimn + X00068_Hypercholesterolemie:c_b_neu + 
+                                  Gender:c_b_nfmn + X00065_Diabetes.Mellitus:Gender + c_b_Lacv:X00125_COPD + 
+                                  c_b_pMIC:X00068_Hypercholesterolemie)
+
+formula.paired<-as.formula(Surv(duration , as.numeric(Death)) ~ Age + X00146_LV.functie + c_b_pMAC + 
+                             c_b_rdw + c_b_mon + c_b_Lacv + c_b_pMIC + c_b_MCVr + c_b_npmn + 
+                             c_b_nicv + X00065_Diabetes.Mellitus + X00068_Hypercholesterolemie + 
+                             X00115_CVA..cerebraal.vasculair.accident. + X00122_Chronisch.nierfalen + 
+                             c_b_MCHr + Gender + c_b_nfmn + c_b_mcv + c_b_Pimn + c_b_pneu + 
+                             c_b_nfcv + X00125_COPD + X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                             c_b_neu + Smoking + c_b_rdw:c_b_pMIC + c_b_rdw:c_b_Lacv + 
+                             c_b_pMAC:X00115_CVA..cerebraal.vasculair.accident. + X00115_CVA..cerebraal.vasculair.accident.:X00122_Chronisch.nierfalen + 
+                             c_b_nicv:Gender + c_b_pMAC:Gender + c_b_MCHr:Gender + c_b_pMAC:X00068_Hypercholesterolemie + 
+                             c_b_pMAC:c_b_Lacv + X00068_Hypercholesterolemie:Gender + 
+                             Age:c_b_nfmn + c_b_Lacv:c_b_pMIC + X00146_LV.functie:c_b_pMIC + 
+                             Age:c_b_pMIC + X00122_Chronisch.nierfalen:c_b_mcv + X00122_Chronisch.nierfalen:c_b_MCHr + 
+                             c_b_pMAC:c_b_MCHr + c_b_nicv:c_b_Pimn + c_b_npmn:X00065_Diabetes.Mellitus + 
+                             c_b_pMAC:c_b_mon + c_b_nfmn:c_b_mcv + c_b_pMIC:c_b_pneu + 
+                             c_b_mon:c_b_neu + c_b_Lacv:c_b_pneu + X00146_LV.functie:X00068_Hypercholesterolemie + 
+                             c_b_npmn:c_b_nfcv + c_b_pMAC:c_b_nicv + c_b_nfcv:c_b_neu + 
+                             c_b_pneu:c_b_neu + c_b_mon:c_b_nfcv + c_b_mon:c_b_Pimn + 
+                             c_b_rdw:c_b_nicv + c_b_rdw:X00068_Hypercholesterolemie + 
+                             X00068_Hypercholesterolemie:X00115_CVA..cerebraal.vasculair.accident. + 
+                             Age:c_b_Pimn + c_b_mcv:Smoking + X00125_COPD:Smoking + c_b_pMAC:X00122_Chronisch.nierfalen + 
+                             c_b_pMAC:X00125_COPD + Age:Smoking + Gender:Smoking + Age:X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                             c_b_mon:X00127_Longembolie.DVT..diep.veneuze.trombose. + 
+                             X00068_Hypercholesterolemie:c_b_Pimn + X00068_Hypercholesterolemie:c_b_neu + 
+                             Gender:c_b_nfmn + X00065_Diabetes.Mellitus:Gender + c_b_Lacv:X00125_COPD + 
+                             c_b_pMIC:X00068_Hypercholesterolemie)
+
+
+formula.squared.long<- as.formula(Surv(duration.long , as.numeric(Death.long)) ~ pol(Age,2) + c_b_pMAC + c_b_rdw + c_b_mon + pol(c_b_pMIC,2) + 
+                                    pol(c_b_Lacv,2))
+
+formula.squared<- as.formula(Surv(duration , as.numeric(Death)) ~ pol(Age,2) + c_b_pMAC + c_b_rdw + c_b_mon + pol(c_b_pMIC,2) + 
+                                    pol(c_b_Lacv,2))
+
+formula.paired.squared.long<-as.formula(Surv(duration.long , as.numeric(Death.long)) ~ pol(Age,2) + c_b_pMAC + c_b_rdw + 
+                                          c_b_mon + pol(c_b_pMIC,2) + pol(c_b_Lacv,2) + c_b_pMAC:c_b_rdw + 
+
+                                          c_b_rdw:pol(c_b_Lacv,2))
+
+formula.paired.squared<-as.formula(Surv(duration , as.numeric(Death)) ~ pol(Age,2) + c_b_pMAC + c_b_rdw + 
+                                     c_b_mon + pol(c_b_pMIC,2) + pol(c_b_Lacv,2) + c_b_pMAC:c_b_rdw + 
+                                     c_b_rdw:pol(c_b_Lacv,2))

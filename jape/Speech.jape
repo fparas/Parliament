@@ -1,0 +1,30 @@
+﻿Phase: Speech
+Input: Token Parlmember Chairman Lookup	
+Options: control = appelt
+Macro: PARENTHESES
+(
+{Token.string == "("}
+({Token.kind=="word"})*
+{Token.string == ")"}
+)
+
+ 
+
+Rule: speech1
+
+
+
+	(
+	({Parlmember} | {Chairman})
+	(PARENTHESES)?
+	({Token.string == ")"})?
+	{Token.string == ":"}
+	({Token, !Lookup.majorType=="stopword"})*
+	):speech
+	
+
+-->
+
+
+:speech.Speech = {rule = "speech1"}
+ 

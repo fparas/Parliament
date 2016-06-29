@@ -1,0 +1,15 @@
+Phase: Minister
+Input: Token Parentheses Parlmember
+Options: control = appelt
+
+Rule: minister1
+(
+{Parlmember}
+):parlmember
+(
+{Parentheses}
+{Token.string == ":"}
+)
+
+-->
+:parlmember.Parlmember = {majorType="speaker",minorType="minister"}

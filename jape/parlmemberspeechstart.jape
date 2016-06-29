@@ -1,5 +1,5 @@
 Phase: ParlmemberSpeechStart
-Input: Token Parlmember Chairman Lookup	
+Input: Token Parlmember Lookup	
 Options: control = appelt
 Macro: PARENTHESES
 (

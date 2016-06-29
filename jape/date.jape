@@ -4,14 +4,14 @@ Options: control = appelt
 
 Rule: date1 
 (
-({Lookup.majorType=="day"})?
+{Lookup.majorType=="day"}
 {Token.kind=="number"}
 {Lookup.majorType=="month"}
 {Token.kind=="number"}
 )
 :date
 -->
-:date.DateGr = {}
+:date.ConferenceDate = {}
 
 Rule: date2 
 

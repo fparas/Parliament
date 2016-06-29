@@ -1,0 +1,17 @@
+Phase: Parlmember2
+Input:  Token Parentheses
+Options: control = appelt
+
+Rule: parlmember1
+(
+	({Token.orth==allCaps})[2,6]
+	
+)
+:parlmember
+(
+({Parentheses})?
+{Token.string == ":"}
+)
+-->
+
+:parlmember.Parlmember = {majorType = "speaker"}

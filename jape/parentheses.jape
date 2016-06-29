@@ -1,0 +1,13 @@
+Phase: Parentheses
+Input: Token
+Options: control = appelt
+
+Rule: parentheses1
+(
+{Token.string == "("}
+({Token,!Token.string == ")"})[1,50]
+{Token.string == ")"}
+):parentheses
+
+-->
+:parentheses.Parentheses = {}
